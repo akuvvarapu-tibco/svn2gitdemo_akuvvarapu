@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    BackgroundColor="#ff8c00"
+    Name="ExcludeFromBuilds"
+    Comment="Exclude template files from builds." />
+  <ConditionTag
+    BackgroundColor="#0080ef"
+    Name="HiddenText"
+    Comment="Use for Author notes, such as JIRA numbers. Exclude from builds also."
+    OriginalName="HiddenText" />
+  <ConditionTag
+    BackgroundColor="#ff33ff"
+    Name="DoNotImport"
+    Comment="Use for files that should not be imported into base template." />
+  <ConditionTag
+    BackgroundColor="#990000"
+    Name="Confidential"
+    Comment="Use for products which are confidential"
+    OriginalName="Confidential" />
+  <ConditionTag
+    BackgroundColor="#6be1ff"
+    Name="EnterpriseHelp"
+    Comment="Use for enterprise products and not cloud products"
+    OriginalName="EnterpriseHelp" />
+  <ConditionTag
+    BackgroundColor="#ff515c"
+    Name="CTXJavaScript"
+    Comment="Use for using javascript for DITA converted CTX help"
+    OriginalName="CTXJavaScript" />
+  <ConditionTag
+    BackgroundColor="#ffc0c0"
+    Name="DraftWatermark"
+    Comment="Use for including draft watermark"
+    OriginalName="DraftWatermark" />
+  <ConditionTag
+    BackgroundColor="#583bb3"
+    Name="AutoMiniTOC"
+    Comment="Use for automatically including miniTOC in all the parents page of your guide." />
+</CatapultConditionTagSet>

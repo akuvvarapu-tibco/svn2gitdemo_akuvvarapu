@@ -1,0 +1,2128 @@
+/*<meta conditions="" />*/
+
+@import url('source-sans-pro.css');
+
+@import url('source-code-pro.css');
+
+/*
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Code+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+*/
+
+@import url('tibco-variables.css');
+
+@import url('tibco-html-variables.css');
+
+@import url('feedback.css');
+
+.draft-comment	/*style for draft-comments as block and inline*/
+{
+	font-style: italic;
+	background: #adff2f;
+	mc-auto-number-class: draft-comment-prefix;
+	mc-auto-number-format: var(--draftComments);
+	mc-conditions: 'GlobalConditions.HiddenText';
+	padding: 6px;
+}
+
+.self-note	/*style for self-note as block and inline*/
+{
+	font-style: italic;
+	mc-auto-number-class: self-note-prefix;
+	mc-auto-number-format: var(--selfNotes);
+	mc-conditions: 'GlobalConditions.ExcludeFromBuilds';
+	background: #ffff33;
+	padding: 6px;
+}
+
+/*For HTML output page design*/
+
+button.button.needs-pie.previous-topic-button:hover,
+button.button.needs-pie.next-topic-button:hover,
+button.button.needs-pie.remove-highlight-button:hover,
+button.button.needs-pie.print-button:hover,
+button.button.needs-pie.copy-url-button:hover
+{
+	background-color: #eee;
+	mc-hidden: hidden;
+}
+
+div#prdnm
+{
+	padding: 12px;
+	font-size: 21px;
+	letter-spacing: 0.5px;
+	color: #3a3a3a;
+	background-color: #fafafa;
+	border-bottom: 1px solid #e3e3e3;
+	line-height: 1.1em;
+	mc-hidden: hidden;
+}
+
+div.button-group-container-left
+{
+	margin-right: 60px;
+	margin-top: 10px;
+	background-color: transparent;
+	mc-hidden: hidden;
+}
+
+div#mc-main-content
+{
+	margin-left: 8%;
+	margin-right: 8%;
+	max-width: 720px;
+	border-radius: 6px;
+	margin-bottom: 26px;
+	margin-top: 60px;
+	padding-bottom: 20px;
+	/*background: #ffffff url('../Images/Logos/Draft.png') repeat;*/
+	mc-hidden: hidden;
+	/*box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 2px 6px 2px rgba(60,64,67,.15)*/
+}
+
+div.page-content
+{
+	background-color: transparent;
+	mc-hidden: hidden;
+}
+
+p.Copyright	/*Copyright statement in the masterpage*/
+{
+	text-align: right;
+	font-size: 14px;
+	background-color: #f4f4f4;
+	box-shadow: 0 -2px 5px #dadada;
+	left: 0;
+	bottom: 0;
+	margin-bottom: 0;
+	padding-bottom: 5px;
+	padding-right: 20px;
+	position: fixed;
+	width: 99%;
+	height: 24px;
+	right: 20px;
+	mc-hidden: hidden;
+}
+
+body
+{
+	font-family: var(--bodyFont);
+	color: #212121;
+	font-size: 16px;
+	word-spacing: 0.5px;
+	margin-top: 0px;
+	margin-right: 0;
+	margin-bottom: 0;
+	/*background-image: url('../Images/Logos/Draft.png');*/
+	background-repeat: repeat;
+	line-height: 1.5em;
+	letter-spacing: 0.2px;
+	margin-left: 0;
+	max-width: 100%;
+	mc-hyphenate: never !important;
+}
+
+html
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	background-color: transparent;
+}
+
+/*Links*/
+
+a,
+a:active,
+a:link
+{
+	text-decoration: none !important;
+	color: #1774e5;
+}
+
+a > b
+{
+	color: #1774e5;
+}
+
+a > b:hover
+{
+	color: #0e4f9e;
+}
+
+a[href^="https://"],
+a[href^="http://"]
+{
+	border: solid 1px #b0caeb;
+	border-radius: 5px;
+	background-repeat: no-repeat;
+	padding: 2px 4px 2px 18px;
+	background-size: 0.8em auto;
+	background-position: 3px 6px;
+	background-color: #fafdff;
+	background-image: url('../Images/Logos/ic_new_tab_window.png');
+}
+
+a[href^="https://"]:hover,
+a[href^="http://"]:hover
+{
+	color: #064ea6;
+	border: solid 1px #3084ee;
+	background-color: #f1faff;
+}
+
+MadCap|xref
+{
+	text-decoration: none;
+	color: #1774e5;
+}
+
+/*Headings*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h2.sectiontitle,
+div.miniSectionHeading
+{
+	line-height: normal;
+	font-family: var(--headingFont);
+	font-weight: 600;
+	margin-bottom: 0;
+	margin-top: 1.75em;
+	color: var(--headingColor);
+}
+
+h1
+{
+	font-size: 36px;
+	letter-spacing: -0.2px;
+}
+
+h1.Content
+{
+	mc-hidden: hidden;
+}
+
+h1.impinfotitle
+{
+	
+}
+
+h1.Chapter
+{
+	mc-hidden: hidden;
+}
+
+h2
+{
+	font-size: 33px;
+	letter-spacing: -0.2px;
+}
+
+h3
+{
+	font-size: 30px;
+	letter-spacing: -0.2px;
+}
+
+h4
+{
+	font-size: 27.5px;
+	letter-spacing: -0.2px;
+}
+
+h5
+{
+	font-size: 25px;
+	letter-spacing: -0.1px;
+}
+
+h6
+{
+	font-size: 23px;
+	letter-spacing: -0.1px;
+	margin-bottom: 0px;
+}
+
+h2.sectiontitle
+{
+	font-size: 21px;
+	letter-spacing: 0px;
+	mc-heading-level: 0;
+}
+
+div.miniSectionHeading
+{
+	font-size: 19px;
+	letter-spacing: 0.2px;
+	mc-next-tag: p;
+}
+
+/*Div*/
+
+div.section
+{
+	margin-top: 1rem;
+	mc-hidden: hidden;
+}
+
+div.choices
+{
+	display: block;
+	list-style-type: disc;
+	padding-left: 30px;
+	mc-hidden: hidden;
+}
+
+div.choice
+{
+	display: list-item;
+	padding-left: 5px;
+	mc-hidden: hidden;
+}
+
+div.fig
+{
+	margin-top: 1rem;
+	mc-hidden: hidden;
+}
+
+div.fig + p
+{
+	margin-top: 0.5em;
+}
+
+div.stepsection
+{
+	font-weight: bold;
+	list-style-type: none;
+	padding-left: 5px;
+	margin-top: 0.4em;
+}
+
+div.stepsection + li
+{
+	margin-top: 0.2em;
+}
+
+div.noPageBreak
+{
+	page-break-inside: avoid;
+}
+
+/*notes styles*/
+
+div.note,
+div.noteNote,
+div.noteTip,
+div.noteWarning,
+div.noteImportant,
+div.noteRestriction,
+div.noteCaution
+{
+	padding: 16px 16px 16px 56px;
+	border-radius: 4px;
+	line-height: 1.2em;
+	margin-top: 1em;
+	mc-next-tag: p;
+	page-break-inside: avoid;
+	mc-auto-number-class: noteHead;
+}
+
+span.noteHead
+{
+	font-weight: bold;
+}
+
+div.noteNote
+{
+	background: #f4f4f4 url('../Images/Logos/pl-icon-info.png') 20px 16px no-repeat;
+	mc-hidden: hidden;
+	mc-auto-number-format: var(--noteNote);
+}
+
+div.noteTip
+{
+	background: #f4f4f4 url('../Images/Logos/pl-icon-success.png') 20px 16px no-repeat;
+	mc-auto-number-format: var(--noteTip);
+}
+
+div.noteWarning
+{
+	background: #f4f4f4 url('../Images/Logos/pl-icon-warning-triangle.png') 20px 16px no-repeat;
+	mc-auto-number-format: var(--noteWarning);
+}
+
+div.noteCaution
+{
+	background: #f4f4f4 url('../Images/Logos/pl-icon-warning-triangle.png') 20px 16px no-repeat;
+	mc-auto-number-format: var(--noteCaution);
+}
+
+div.note
+{
+	background: #f4f4f4 url('../Images/Logos/pl-icon-info.png') 20px 16px no-repeat;
+	mc-auto-number-format: var(--noteNote);
+}
+
+div.noteRestriction
+{
+	background: #f4f4f4 url('../Images/Logos/pl-icon-restrictions.png') 20px 16px no-repeat;
+	mc-auto-number-format: var(--noteRestriction);
+}
+
+div.noteImportant
+{
+	background: #f4f4f4 url('../Images/Logos/pl-icon-warning-circle.png') 20px 16px no-repeat;
+	mc-auto-number-format: var(--noteImportant);
+}
+
+/*Tile style section for key topics*/
+
+div.link-tiles
+{
+	border-top: 1px solid #ddd;
+	margin: 2em 0;
+	padding: 1em 0;
+}
+
+div.link-tiles ul
+{
+	background-color: white;
+	text-align: center;
+	padding: 0;
+	list-style-type: none;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	mc-conditions: 'Default.ScreenOnly';
+}
+
+div.link-tiles ul li
+{
+	background-color: white;
+	display: inline-block;
+	box-shadow: 0 2px 7px 0 lightgray;
+	border-radius: 10px;
+	margin: calc(2%);
+	cursor: pointer;
+	float: left;
+	width: calc(28%);
+	text-align: center;
+	padding: 0;
+}
+
+div.link-tiles ul li:hover
+{
+	background-color: #f7f7f7;
+}
+
+div.link-tiles ul li span.link-tile-heading
+{
+	margin: 0 0 16px;
+	padding: 0;
+	color: #ff7f50;
+	box-shadow: none;
+	background-color: transparent;
+	font-size: 1.4em;
+	display: block;
+	mc-hidden: hidden;
+}
+
+span.link-tile-heading
+{
+	
+}
+
+div.link-tiles li p
+{
+	margin: 0;
+}
+
+div.link-tiles ul li a
+{
+	display: block;
+	padding: 10%;
+	height: calc(100% - 40px);
+}
+
+div.link-tiles ul li span.link-tile-text
+{
+	margin: 0;
+	font-size: 1.1em;
+}
+
+span.link-tile-text
+{
+	
+}
+
+/*Note styles inside a table*/
+
+td div.note,
+td div.noteNote,
+td div.noteTip,
+td div.noteWarning,
+td div.noteImportant,
+td div.noteRestriction,
+td div.noteCaution
+{
+	background: none;
+	background-color: #f4f4f4;
+	padding: 10px;
+	font-size: 15px;
+	mc-auto-number-class: noteHeadInTable;
+}
+
+span.noteHeadInTable
+{
+	font-size: 15px;
+	font-weight: bold;
+}
+
+td div.note,
+td div.noteNote
+{
+	mc-auto-number-format: var(--noteNote);
+}
+
+td div.noteTip
+{
+	mc-auto-number-format: var(--noteTip);
+}
+
+td div.noteWarning
+{
+	mc-auto-number-format: var(--noteWarning);
+}
+
+td div.noteCaution
+{
+	mc-auto-number-format: var(--noteCaution);
+}
+
+td div.noteRestriction
+{
+	mc-auto-number-format: var(--noteRestriction);
+}
+
+td div.noteImportant
+{
+	mc-auto-number-format: var(--noteImportant);
+}
+
+/*paragraph*/
+
+p
+{
+	margin-top: 1em;
+	margin-bottom: 0;
+	mc-hyphenate: never;
+}
+
+p.TableTitle	/*FM Style for table captions*/
+{
+	text-align: left;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 1rem;
+	margin-bottom: 6pt;
+	font-family: var(--tableCaptionFont);
+	font-weight: bold;
+	font-style: normal;
+	font-size: 14px;
+	letter-spacing: 0em;
+	mc-hyphenate: never;
+	text-indent: 0px;
+	text-decoration: none;
+}
+
+p.AuthorNote	/*FM Style for hidden draft notes*/
+{
+	mc-hidden: hidden;
+}
+
+/*p.ProductName, p.BookName, p.ProductVersion, used only for title page when generating PDF from FM*/
+
+p.ProductName
+{
+	text-align: left;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 0pt;
+	margin-bottom: 0.4em;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 2.2em;
+	letter-spacing: unset;
+	color: #242424;
+	mc-hyphenate: never;
+	text-indent: 0px;
+	line-height: 1.2em;
+	text-decoration: none;
+	mc-hidden: hidden;
+}
+
+p.BookName
+{
+	text-align: left;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 0.4em;
+	margin-bottom: 0.5em;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 2.1em;
+	letter-spacing: -0.8px;
+	color: #242424;
+	mc-hyphenate: never;
+	text-indent: 0px;
+	line-height: 1.2em;
+	text-decoration: none;
+	mc-hidden: hidden;
+}
+
+p.ProductVersion
+{
+	text-align: left;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 10pt;
+	letter-spacing: 0em;
+	color: #000000;
+	mc-hyphenate: never;
+	text-indent: 0px;
+	line-height: 12pt;
+	text-decoration: none;
+	mc-hidden: hidden;
+}
+
+/*Images for Note, Tip, Warning Tables brought over from FrameMaker*/
+
+p.IconNote,
+p.IconImportant,
+p.IconRestriction,
+p.IconTip,
+p.IconWarning
+{
+	background-repeat: no-repeat;
+	line-height: 20px;
+	margin-left: 0;
+	padding-top: 24px;
+	mc-hyphenate: never;
+	mc-hidden: hidden;
+	mc-auto-number-class: noteHead;
+}
+
+p.IconNote
+{
+	background-image: url('../Images/Logos/pl-icon-info.png');
+	mc-auto-number-format: var(--noteNoteFM);
+	margin-top: 24px;
+}
+
+p.IconImportant
+{
+	background-image: url('../Images/Logos/pl-icon-info.png');
+	mc-auto-number-format: var(--noteImportantFM);
+}
+
+p.IconRestriction
+{
+	background-image: url('../Images/Logos/pl-icon-restrictions.png');
+	mc-auto-number-format: var(--noteRestrictionFM);
+}
+
+p.IconTip
+{
+	background-image: url('../Images/Logos/pl-icon-success.png');
+	mc-auto-number-format: var(--noteTipFM);
+}
+
+p.IconWarning
+{
+	background-image: url('../Images/Logos/pl-icon-warning-triangle.png');
+	mc-auto-number-format: var(--noteWarningFM);
+}
+
+/*Character*/
+
+span.draft-comment	/*inline draft comments prefix*/
+{
+	mc-auto-number-format: var(--inlineDraftComments);
+	mc-hidden: hidden;
+}
+
+span.draft-comment-prefix	/*inline draft comments prefix style*/
+{
+	color: #ff2e4e;
+	font-weight: 700;
+	background: #adff2f;
+}
+
+span.self-note	/*inline draft comments prefix*/
+{
+	mc-auto-number-format: var(--inlineSelfNotes);
+	mc-hidden: hidden;
+}
+
+span.self-note-prefix	/*inline draft comments prefix style*/
+{
+	font-weight: 700;
+	background: #ffff33;
+	color: #9400d3;
+}
+
+span.required-cleanup
+{
+	color: red;
+	background-color: yellow;
+	border: 1px solid red;
+	padding: 5px;
+	mc-conditions: 'GlobalConditions.HiddenText';
+}
+
+span.term
+{
+	font-style: italic;
+}
+
+span.uicontrol,
+b
+{
+	font-weight: bold;
+	color: #474747;
+}
+
+span._Override	/*From FrameMaker*/
+{
+	
+}
+
+code
+{
+	font-family: var(--codeFont);
+	font-size: 0.85em;
+	white-space: normal;
+	mc-hyphenate: never;
+}
+
+span.apiname,
+span.cmdname,
+tt,
+span.filepath,
+span.parmname
+{
+	font-family: var(--codeFont);
+	font-size: 0.85em;
+	mc-hidden: hidden;
+}
+
+span.cite,
+span.varname,
+span.Emphasis
+{
+	font-style: italic;
+	mc-hidden: hidden;
+}
+
+span.Bold	/*FromFM*/
+{
+	font-weight: bold;
+	color: #474747;
+}
+
+code.CodeItalic	/*FromFM*/
+{
+	font-family: var(--bodyFont);
+	font-style: italic;
+	font-size: 0.95em;
+}
+
+code.CodeBold	/*FromFM*/
+{
+	font-weight: bold;
+	font-family: var(--codeFont);
+}
+
+/*Lists*/
+
+ol
+{
+	list-style-type: decimal;
+	margin-top: 1rem;
+}
+
+ol ol
+{
+	list-style-type: lower-alpha;
+	margin-top: 0.7rem;
+}
+
+ol ol ol
+{
+	list-style-type: lower-roman;
+	margin-top: 0.7rem;
+}
+
+li
+{
+	padding-left: 5px;
+	margin-top: 0.7rem;
+}
+
+li p
+{
+	margin-top: 0.5rem;
+}
+
+li div
+{
+	margin-top: 0.5rem;
+}
+
+/* generated by import might remove ul
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+}
+
+li
+{
+	margin-left: 20pt;
+	margin-top: 6pt;
+	margin-bottom: 2pt;
+} */
+
+ul
+{
+	list-style-type: disc;
+	margin-top: 1em;
+}
+
+ul ul
+{
+	list-style-type: circle;
+	margin-top: 12px;
+}
+
+ul ul ul
+{
+	list-style-type: square;
+	margin-top: 12px;
+}
+
+td,
+th
+{
+	mc-hyphenate: never;
+}
+
+td ul
+{
+	padding-left: 20px;
+}
+
+td p,
+td div
+{
+	margin-top: 12px;
+}
+
+thead p
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+li p
+{
+	margin-bottom: 0.8em;
+}
+
+li div
+{
+	margin-bottom: 0.8em;
+}
+
+caption
+{
+	font-size: 0.95em;
+	text-align: left;
+	font-style: italic;
+}
+
+/*Definition list */
+
+div.dl
+{
+	padding-left: 0;
+	margin-top: 1rem;
+}
+
+div.dlentry
+{
+	margin-top: 0.8rem;
+	mc-hidden: hidden;
+}
+
+div.dd
+{
+	margin-left: 20px;
+	margin-top: 0.7rem;
+}
+
+span.dt
+{
+	margin-top: 12px;
+	font-weight: bold;
+	mc-hidden: hidden;
+}
+
+dl
+{
+	mc-next-tag: dt;
+	margin-top: 1rem;
+	mc-hidden: unhidden;
+	padding-left: 0px;
+}
+
+dt
+{
+	mc-next-tag: dd;
+	font-weight: bold;
+	margin-top: 0.8rem;
+}
+
+dd
+{
+	margin-left: 20px;
+	mc-next-tag: dt;
+	margin-top: 0.7rem;
+}
+
+/*List style from FrameMaker*/
+
+p.Bullet
+{
+	mc-auto-number-position: outside-head;
+	margin-top: 0.7rem;
+	margin-left: 45px;
+	mc-auto-number-format: '{b}•{/b}';
+	mc-auto-number-offset: 16px;
+}
+
+p.ListDash
+{
+	mc-auto-number-position: outside-head;
+	margin-left: 70px;
+	margin-bottom: 0;
+	margin-top: 0.7rem;
+	mc-auto-number-offset: 25px;
+	mc-auto-number-format: '— ';
+}
+
+p.Step
+{
+	margin-bottom: 0pt;
+	mc-auto-number-format: 'S:{n+}. ';
+	mc-auto-number-position: outside-head;
+	margin-top: 0.7rem;
+	margin-left: 40px;
+	mc-auto-number-offset: 22px;
+	padding-left: 5px;
+}
+
+p.StepInd
+{
+	margin-bottom: 0pt;
+	mc-auto-number-format: 'S:{ }{a+}. ';
+	mc-auto-number-position: outside-head;
+	margin-top: 0.7rem;
+	margin-left: 65px;
+	mc-auto-number-offset: 20px;
+	padding-left: 5px;
+}
+
+p.ResetStep	/*FrameMaker tag to restart numbered lists at 1*/
+{
+	mc-auto-number-format: var(--stepsResetFM);
+}
+
+p.ListContinue
+{
+	margin-top: 0.5rem;
+	margin-left: 45px;
+	margin-bottom: 0pt;
+	mc-hidden: hidden;
+}
+
+p.ListContinueIndent
+{
+	margin-top: 0.5rem;
+	margin-left: 65px;
+	margin-bottom: 0pt;
+	padding-left: 5px;
+	mc-hidden: hidden;
+}
+
+/*TOC*/
+
+p.TOC1
+{
+	color: #0000ff;
+}
+
+p.TOC2
+{
+	color: #0000ff;
+	line-height: 0pt;
+	margin-bottom: 0em;
+	margin-top: 0em;
+}
+
+p.TOC3
+{
+	color: #0000ff;
+	line-height: 0pt;
+	margin-bottom: 0em;
+	margin-top: 0em;
+}
+
+table.GenTOCTable4
+{
+	display: none;
+}
+
+table.GenTOCTable5
+{
+	display: none;
+}
+
+table.GenTOCTable6
+{
+	display: none;
+}
+
+/*image*/
+
+img
+{
+	max-width: 100%;
+	border: solid 1px #8c8c8c;
+	box-shadow: 1px 1px 3px #a2a2a2;
+	/*mc-thumbnail: popup;
+	mc-thumbnail-max-height: auto;*/
+}
+
+img.thumbnailpopup
+{
+	mc-thumbnail: popup;
+	mc-thumbnail-max-height: auto;
+}
+
+img.invisible-label
+{
+	border: 0;
+	box-shadow: none;
+	mc-hidden: hidden;
+}
+
+img.icon
+{
+	max-height: 1.8em;
+	max-width: auto;
+	position: relative;
+	vertical-align: -2px;
+	border: none 0px transparent;
+	box-shadow: 0;
+	mc-thumbnail: none;
+}
+
+img.screenshot
+{
+	max-width: 95%;
+}
+
+MadCap|breadcrumbsProxy
+{
+	mc-breadcrumbs-prefix: '';
+	padding: 10px;
+	font-size: 0.8rem;
+	vertical-align: bottom;
+	background-color: #fafafa;
+	border-bottom: none;
+	box-shadow: 0px 2px 5px #dadada;
+	mc-breadcrumbs-count: 6;
+}
+
+MadCap|relationshipsHeading
+{
+	font-size: 1em;
+}
+
+MadCap|relationshipsHeading.Child
+{
+	mc-label: var(--relHeading);
+}
+
+div.topic-frame	/*This topic frame helps to put the responsive design in each topic, so that we can horizontally align topic body and subtopics miniTOC. This topic-frame class is implemented in the masterpage.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.topic-frame::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.topic-frame::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.topic-frame > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.topic-frame > div:nth-child(1)
+{
+	width: 66.66667%;
+	margin-left: 0%;
+}
+
+div.topic-frame > div:nth-child(2)
+{
+	width: 33.33333%;
+	margin-left: 0%;
+}
+
+MadCap|miniTocProxy
+{
+	border-top-width: 0;
+	border-top-style: none;
+	border-top-color: #d1d1d1;
+	margin-top: 2em;
+	mc-toc-depth: 1;
+	color: #0083cc;
+	font-weight: normal;
+	mc-auto-number-class: miniTOCHead;
+	mc-auto-number-format: var(--miniTocHeading);
+	padding-left: 24px;
+	margin-left: 8%;
+	margin-right: 8%;
+	max-width: 696px;
+	padding-bottom: 60px;
+}
+
+MadCap|xref.figure
+{
+	mc-format: '{paranumonly}';
+}
+
+div.MCMiniTocBox_0
+{
+	mc-auto-number-class: miniTOCHead;
+	mc-auto-number-format: var(--miniTocHeading);
+	mc-hidden: always;
+}
+
+span.miniTOCHead
+{
+	color: #000;
+	display: block;
+	margin-top: 1em;
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-left: -20px;
+}
+
+p.MiniTOC1
+{
+	font-weight: normal;
+	mc-pagenum-display: all;
+	color: #1774e5;
+	margin: 0.5rem 0;
+}
+
+pre,
+blockquote
+{
+	font-family: var(--codeFont);
+	font-size: 0.85rem;
+	background-color: #eff3fb;
+	padding: 12px 16px 16px 16px;
+	margin-bottom: 0.8em;
+	margin-top: 1em;
+	line-height: 1.2em;
+	white-space: pre-wrap;
+}
+
+blockquote
+{
+	mc-hidden: hidden;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+pre code,
+pre code.CodeBold,
+pre code.CodeItalic
+{
+	font-size: 0.9em;
+}
+
+blockquote p tt
+{
+	font-size: 1em;
+}
+
+pre var,
+pre span.varname,
+pre i,
+blockquote em,
+pre p var,
+pre p span.varname,
+pre p i
+{
+	font-family: var(--bodyFont);
+	font-size: 0.9rem;
+	letter-spacing: 0px;
+	mc-hyphenate: never;
+}
+
+p.Bullet + pre
+{
+	margin-left: 55px;
+}
+
+p.Step + pre
+{
+	margin-left: 55px;
+}
+
+p.ListContinue + pre
+{
+	margin-left: 55px;
+	mc-hidden: hidden;
+}
+
+td pre	/*for a code text inside table cell*/
+{
+	margin-left: 0;
+}
+
+pre.Indent
+{
+	margin-left: 65px;
+}
+
+td code
+{
+	font-size: 0.85em;
+}
+
+/*DITA style section headings for a task topic*/
+
+ol.steps
+{
+	mc-auto-number-format: var(--stepsHead);
+	mc-auto-number-class: stephead;
+	margin-top: 32px;
+}
+
+div.result
+{
+	mc-auto-number-format: var(--resultHead);
+	mc-auto-number-class: sectionhead;
+	mc-next-tag: p;
+	margin-top: 1rem;
+}
+
+div.result + p,
+div.result + div
+{
+	margin-top: 0px;
+}
+
+div.prereq
+{
+	mc-auto-number-format: var(--prereqHead);
+	mc-auto-number-class: sectionhead;
+	mc-next-tag: p;
+	margin-top: 1rem;
+}
+
+div.postreq
+{
+	mc-auto-number-format: var(--postreqHead);
+	mc-auto-number-class: sectionhead;
+	mc-next-tag: p;
+	margin-top: 1rem;
+}
+
+span.sectionhead + p
+{
+	margin-top: 0px;
+}
+
+span.sectionhead,
+span.stephead
+{
+	font-size: 17px;
+	font-weight: 600;
+	color: var(--headingColor);
+	display: block;
+	letter-spacing: 0.6px;
+	padding-bottom: 0.3em;
+}
+
+span.stephead
+{
+	margin-left: -40px;
+}
+
+span.sectionhead
+{
+	padding-top: 1rem;
+}
+
+p.FigureTitle
+{
+	font-style: italic;
+	mc-auto-number-format: var(--figureTitle);
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
+	page-break-after: avoid;
+}
+
+div.noLine
+{
+	font-size: 1px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	line-height: 1px;
+	mc-hidden: hidden;
+}
+
+address
+{
+	mc-disabled: true;
+}
+
+div.dt
+{
+	font-weight: bold;
+	margin-top: 0.8em;
+}
+
+div.multicol
+{
+	mc-column-count: 3;
+	column-count: inherit;
+}
+
+p.copy
+{
+	
+}
+
+MadCap|codeSnippetBody
+{
+	font-family: var(--codeFont);
+	line-height: 1.1em;
+	margin-top: 1rem;
+}
+
+MadCap|codeSnippetCaption
+{
+	font-family: var(--codeFont);
+}
+
+a
+{
+	color: #1774e5;
+}
+
+MadCap|xref:hover
+{
+	color: #0e4f9e;
+}
+
+a:hover,
+a.MiniTOC1:hover
+{
+	color: #0e4f9e;
+}
+
+img#tibco-logo
+{
+	mc-hidden: hidden;
+}
+
+div.GlossaryPageTerm
+{
+	color: #333;
+}
+
+button#myBtn
+{
+	display: none;
+	position: fixed;
+	bottom: 50px;
+	right: 30px;
+	z-index: 99;
+	font-size: 16px;
+	color: #1774e5;
+	border: solid 1px #1774e5;
+	outline: none;
+	cursor: pointer;
+	padding: 7px 14px 7px 40px;
+	border-radius: 3px;
+	background-size: auto 15px;
+	background-position: 12px 8px;
+	background-repeat: no-repeat;
+	background-color: white;
+	background-image: url('../Images/Logos/top-icon.png');
+}
+
+button#myBtn:hover
+{
+	color: #0e4f9e;
+	border-color: #0e4f9e;
+	background-image: url('../Images/Logos/top-icon-hover.png');
+}
+
+MadCap|slideshow
+{
+	margin-top: 36px;
+}
+
+MadCap|dropDown
+{
+	mc-open-image: url('../Images/Logos/outline_keyboard_arrow_down_black_24dp.png');
+	mc-image-spacing: 4px;
+	margin-bottom: 22px;
+	margin-top: 22px;
+	mc-closed-image: url('../Images/Logos/outline_keyboard_arrow_right_black_24dp.png');
+}
+
+MadCap|dropDownHead
+{
+	letter-spacing: -0.4px;
+	font-size: 20px;
+}
+
+MadCap|dropDownBody
+{
+	margin-left: 30px;
+	padding-bottom: 4px;
+}
+
+img.MCDropDown_Image_Icon
+{
+	box-shadow: none;
+	mc-hidden: hidden;
+}
+
+MadCap|expanding
+{
+	mc-open-image: url('../Images/Logos/outline_keyboard_arrow_down_black_24dp.png');
+	mc-closed-image: url('../Images/Logos/outline_keyboard_arrow_right_black_24dp_expander.png');
+	mc-image-spacing: 4px;
+}
+
+img.MCExpanding_Image_Icon
+{
+	box-shadow: none;
+	mc-hidden: hidden;
+}
+
+MadCap|expandingBody
+{
+	padding: 4px;
+	background-color: #eeeeee;
+}
+
+img.diagram
+{
+	padding: 15px;
+	max-width: 90%;
+}
+
+img.noborder
+{
+	border: 0;
+	box-shadow: none;
+	max-width: 95%;
+}
+
+a.GlossaryPageLink,
+p.GlossaryEntry
+{
+	color: #333;
+	font-weight: bold;
+	mc-hidden: hidden;
+}
+
+p.GroupTitlesGloss
+{
+	color: #333;
+	font-size: 20px;
+	margin-bottom: 20px;
+	border-bottom: solid 1px #333;
+	mc-hidden: hidden;
+}
+
+p.Bold
+{
+	color: #474747;
+	font-weight: bold;
+}
+
+@media tablet
+{
+	MadCap|breadcrumbsProxy
+	{
+		display: inherit;
+	}
+
+	button#myBtn
+	{
+		background-size: auto 14px;
+		background-position: 12px 10px;
+		padding: 7px 14px 7px 38px;
+	}
+
+	div.topic-frame > div:nth-child(1)
+	{
+		width: 66.66667%;
+		margin-left: 0%;
+	}
+
+	div.topic-frame > div:nth-child(2)
+	{
+		width: 33.33333%;
+		margin-left: 0%;
+	}
+}
+
+@media only screen and (max-width: 1060px)
+{
+	div.link-tiles ul li
+	{
+		background-color: white;
+		display: inline-block;
+		box-shadow: 0 2px 7px 0 lightgray;
+		border-radius: 10px;
+		margin: calc(2%);
+		cursor: pointer;
+		float: left;
+		width: calc(46%);
+		text-align: center;
+	}
+
+	button#myBtn
+	{
+		background-size: auto 14px;
+		background-position: 12px 10px;
+		padding: 7px 14px 7px 38px;
+	}
+
+	div.topic-frame > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.topic-frame > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+}
+
+@media mobile
+{
+	MadCap|breadcrumbsProxy
+	{
+		display: none;
+	}
+
+	div#mc-main-content
+	{
+		margin-left: 20px;
+		margin-right: 20px;
+		padding-left: 0;
+		padding-right: 0;
+		padding-top: 40px;
+		margin-top: 0px;
+	}
+
+	body
+	{
+		margin-left: 0;
+		margin-right: 0;
+		font-size: 16px;
+		max-width: 95%;
+	}
+
+	div.breadcrumbs
+	{
+		display: none;
+	}
+
+	.buttons._Skins_Toolbar_Skin.mc-component
+	{
+		float: left;
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 100%;
+		box-shadow: 1px 1px 3px lightgray;
+		padding-left: 10px;
+		padding-bottom: 5px;
+		padding-right: 10px;
+	}
+
+	div.toolbar
+	{
+		display: block;
+	}
+
+	h1
+	{
+		font-size: 1.5em;
+		margin-top: 1.5em;
+	}
+
+	h2
+	{
+		font-size: 1.3em;
+		margin-top: 1.5em;
+	}
+
+	p.Copyright	/*Copyright statement in the masterpage*/
+	{
+		font-size: 12px;
+		bottom: 5px;
+	}
+
+	pre,
+	blockquote
+	{
+		padding: 8px 12px 10px 12px;
+	}
+
+	td ul
+	{
+		margin-left: 0;
+		padding-left: 30px;
+	}
+
+	div.topic-frame > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.topic-frame > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+}
+
+@media screen and (max-width: 644px)
+{
+	div.link-tiles ul li
+	{
+		background-color: white;
+		display: inline-block;
+		box-shadow: 0 2px 7px 0 lightgray;
+		border-radius: 10px;
+		margin: calc(2%);
+		cursor: pointer;
+		float: left;
+		width: calc(94%);
+		text-align: center;
+	}
+}
+
+@media print
+{
+	body
+	{
+		font-size: 16px;
+		color: #242424;
+		background-image: none;
+		letter-spacing: 0px;
+		padding-left: 0;
+		margin-left: 0;
+		padding-right: 0;
+		line-height: 1.25em;
+		margin-top: 12px;
+		margin-right: 0px;
+	}
+
+	/*Headings*/
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	h2.sectiontitle,
+	div.miniSectionHeading
+	{
+		font-family: var(--headingFontPDF);
+		margin-top: 2em;
+		color: #010101;
+		page-break-after: avoid;
+		padding-top: 0px;
+	}
+
+	h1
+	{
+		font-size: 35px;
+		letter-spacing: -1.4px;
+		font-weight: 300;
+		border-bottom-style: solid;
+		border-bottom-width: 0.5px;
+		border-color: inherit;
+		margin-bottom: 0.5rem;
+		margin-top: 0;
+		padding-top: 2em;
+		mc-hyphenate: never;
+		mc-heading-level: 1;
+	}
+
+	h1.Content	/*table of contents title*/
+	{
+		/*mc-heading-level: 0;
+		/*do not include in bookmarks or generate table of contents*/
+	}
+
+	h1.Chapter
+	{
+		text-indent: 0px;
+		text-align: left;
+		margin-right: 0in;
+		margin-top: 0pt;
+		margin-bottom: 24pt;
+		font-family: var(--headingFont);
+		font-weight: normal;
+		font-style: normal;
+		font-size: 18pt;
+		letter-spacing: -0.02em;
+		mc-hyphenate: never;
+		line-height: 24pt;
+		text-decoration: none;
+		mc-heading-level: 1;
+		border-bottom-style: none;
+		border-bottom-width: 0px;
+	}
+
+	h2
+	{
+		font-size: 32px;
+		letter-spacing: -1px;
+		mc-hyphenate: never;
+		mc-heading-level: 2;
+		margin-bottom: 0.3rem;
+	}
+
+	h3
+	{
+		font-size: 29px;
+		letter-spacing: -0.8px;
+		mc-hyphenate: never;
+		mc-heading-level: 3;
+		margin-bottom: 0.3rem;
+	}
+
+	h4
+	{
+		font-size: 26.5px;
+		letter-spacing: -0.8px;
+		margin-bottom: 0.3rem;
+		mc-hyphenate: never;
+		mc-heading-level: 4;
+	}
+
+	h5
+	{
+		font-size: 24px;
+		letter-spacing: -0.4px;
+		mc-heading-level: 5;
+		margin-bottom: 0.3rem;
+	}
+
+	h6
+	{
+		font-size: 22px;
+		letter-spacing: -0.3px;
+		mc-heading-level: 6;
+		margin-bottom: 0.3rem;
+	}
+
+	h2.sectiontitle,
+	h2.exampletitle
+	{
+		font-size: 20px;
+		letter-spacing: -0.25px;
+		mc-heading-level: 0;
+		margin-bottom: 0.3em;
+	}
+
+	h2.exampletitle
+	{
+		mc-hidden: hidden;
+	}
+
+	div.miniSectionHeading
+	{
+		font-size: 18px;
+		letter-spacing: -0.15px;
+	}
+
+	span.sectionhead,
+	span.stephead
+	{
+		font-family: var(--headingFontPDF);
+		font-size: 17px;
+		letter-spacing: -0.1px;
+	}
+
+	/*paragraphs*/
+
+	p.Footer	/*controls the fonts in the page footer for the PDF*/
+	{
+		text-align: right;
+		font-size: 10pt;
+		margin-top: 6pt;
+	}
+
+	p.Header	/*controls the fonts in the page header for the PDF*/
+	{
+		text-align: left;
+		font-size: 10pt;
+		margin-top: 6pt;
+	}
+
+	p.TableTitle	/*FM Style for table captions*/
+	{
+		text-align: left;
+		margin-left: 0in;
+		margin-right: 0in;
+		margin-top: 0pt;
+		margin-bottom: 6pt;
+		font-family: var(--tableCaptionFont);
+		font-weight: bold;
+		font-style: normal;
+		font-size: 14px;
+		letter-spacing: 0em;
+		mc-hyphenate: never;
+		text-indent: 0px;
+		text-decoration: none;
+	}
+
+	/*p.ProductName, p.BookName, p.ProductVersion, used only for title page when generating PDF*/
+
+	p.ProductName
+	{
+		text-align: left;
+		margin-left: 0in;
+		margin-right: 0in;
+		margin-top: 0pt;
+		margin-bottom: 0.4em;
+		font-weight: bold;
+		font-style: normal;
+		font-size: 2.2em;
+		letter-spacing: 0em;
+		color: #2a567f;
+		mc-hyphenate: never;
+		text-indent: 0px;
+		line-height: 1.2em;
+		text-decoration: none;
+		mc-hidden: hidden;
+	}
+
+	p.BookName
+	{
+		text-align: left;
+		margin-left: 0in;
+		margin-right: 0in;
+		margin-top: 0.4em;
+		margin-bottom: 0.5em;
+		font-weight: normal;
+		font-style: normal;
+		font-size: 2.1em;
+		letter-spacing: -0.8px;
+		color: #2a567f;
+		mc-hyphenate: never;
+		text-indent: 0px;
+		line-height: 1.2em;
+		text-decoration: none;
+		mc-hidden: hidden;
+	}
+
+	p.ProductVersion
+	{
+		text-align: left;
+		margin-left: 0in;
+		margin-right: 0in;
+		margin-top: 0pt;
+		margin-bottom: 0pt;
+		font-weight: normal;
+		font-style: italic;
+		font-size: 12pt;
+		letter-spacing: 0em;
+		mc-hyphenate: never;
+		text-indent: 0px;
+		line-height: 14pt;
+		text-decoration: none;
+		mc-hidden: hidden;
+	}
+
+	/*List formats from FrameMaker*/
+
+	p.Bullet
+	{
+		
+	}
+
+	p.ListDash
+	{
+		
+	}
+
+	p.Step
+	{
+		
+	}
+
+	span._Override	/*From FrameMaker*/
+	{
+		
+	}
+
+	/*Image tags*/
+
+	img#tibco-logo
+	{
+		border: 0;
+		box-shadow: none;
+		width: 130px;
+		height: 39px;
+	}
+
+	img.screenshot
+	{
+		max-height: auto;
+	}
+
+	MadCap|tocProxy
+	{
+		border-top-style: none;
+	}
+
+	div.impinfo
+	{
+		font-size: 0.9em;
+	}
+
+	div.stepsection
+	{
+		padding-left: 0;
+	}
+
+	p.TOC1
+	{
+		color: #0072da;
+		font-family: var(--headingFontPDF);
+		font-size: 18px;
+		font-weight: bold;
+		line-height: 1.1em;
+		margin-top: 1.5em;
+		margin-bottom: 0.25em;
+	}
+
+	p.TOC2
+	{
+		font-size: 17px;
+		font-weight: normal;
+		color: #0072da;
+		line-height: 1.1em;
+		margin-top: 0.5em;
+		margin-left: 0;
+	}
+
+	p.TOC3
+	{
+		font-size: 16px;
+		font-weight: normal;
+		color: #0072da;
+		line-height: 1.1em;
+		margin-top: 0.5em;
+		margin-left: 15px;
+	}
+
+	li
+	{
+		padding-left: 0;
+	}
+
+	code,
+	code.CodeBold,
+	span.filepath,
+	span.parmname,
+	span.apiname,
+	tt
+	{
+		letter-spacing: -0.25px;
+	}
+
+	MadCap|xref
+	{
+		mc-format: '{paratext}';
+	}
+
+	MadCap|glossaryProxy
+	{
+		border-top-color: none;
+		border-top-style: none;
+		border-top-width: 0;
+	}
+
+	#mc-main-content
+	{
+		mc-hidden: hidden;
+	}
+
+	p.MiniTOC1
+	{
+		mc-leader-format: ' ';
+		mc-leader-offset: 0px;
+		color: #0083cc;
+		mc-pagenum-display: none;
+	}
+
+	MadCap|miniTocProxy
+	{
+		display: none;
+	}
+
+	code,
+	code.CodeBold,
+	span.apiname,
+	span.filepath,
+	span.parmname,
+	tt
+	{
+		font-size: 0.85em;
+	}
+
+	code.CodeItalic
+	{
+		font-size: 0.9em;
+	}
+
+	MadCap|footnoteBlock
+	{
+		font-size: 15px;
+	}
+
+	a
+	{
+		mc-hyphenate: never;
+	}
+
+	div.multicol
+	{
+		column-count: 3;
+	}
+
+	ol
+	{
+		orphans: 1;
+		widows: 1;
+		page-break-inside: auto;
+		page-break-before: auto;
+	}
+
+	ul
+	{
+		orphans: 1;
+		widows: 1;
+		page-break-inside: auto;
+		page-break-before: auto;
+	}
+
+	td ul
+	{
+		margin-left: 20px;
+	}
+
+	img.noborder
+	{
+		
+	}
+
+	MadCap|dropDownBody
+	{
+		margin-left: 0;
+	}
+
+	MadCap|dropDownHead
+	{
+		font-size: 16px;
+		font-weight: bold;
+		color: #484848;
+	}
+
+	MadCap|expandingBody
+	{
+		background-color: transparent;
+		padding: 0;
+	}
+
+	MadCap|expandingHead
+	{
+		font-style: italic;
+	}
+}
+
+div.legaltext	/*The class to ignore the legal text in Acrolinx*/
+{
+	mc-hidden: hidden;
+}
+
+span.wintitle
+{
+	
+}
+
+p.ProductPostGADate
+{
+	
+}
+

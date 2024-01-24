@@ -1,0 +1,738 @@
+﻿/*<meta />*/
+
+@import url('tibco.css');
+:root
+{
+	--linkColor: #1774e5;
+	--linkHoverColor: #0e4f9e;
+	--lightgray1: #f4f4f4;
+}
+
+body{
+	background-color: #F3F6F9;
+}
+
+div.homepage-banner
+{
+	color: white;
+	padding: 0;
+	background-image: url('../Images/Logos/homepage-header.jpeg');
+	background-size: cover;
+}
+div.topic-hero
+{
+	color: white;
+	background-image: url('../Images/Logos/product-backdrop.png');
+	padding: 60px;
+}
+div.homepage-banner-shade
+{
+	background-image: linear-gradient(90deg, hsl(204deg 97% 28%),hsla(204, 100%, 40%, 0.2));
+	padding: 60px;
+	font-size: 40px;
+	color: white;
+	margin-top: 0px;
+	font-weight: 500;
+}
+h1.heroTitle
+{
+	font-size: 40px;
+	color: white;
+	margin-top: 0px;
+	font-weight: 500;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+div#mc-main-content
+{
+    margin-left: 0 !important; 
+    margin-right: auto !important; 
+    max-width: max-content; 
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    padding-top: 0 !important;
+	margin-top:0 !important;
+	background-color: #F3F6F9;
+	}
+div#product-version
+{
+	text-align: left;
+	display: block;
+	font-size: 18px;
+	padding: 20px;
+	background-color: hsla(204, 100%, 40%, 0.6);
+	color: white;
+}
+	
+div#ga-date
+{
+	display: block;
+	text-align: left;
+	font-size: 18px;
+	padding: 20px;
+	margin-top: 28px;
+	background-color: hsla(204, 100%, 40%, 0.6);
+	color: white;
+}
+div#ga-date > b,
+div#product-version > b
+{
+	color: coral;
+	letter-spacing: 0.7px;
+}
+div#release-info
+{
+	padding: 20px 10px;	
+}
+	
+
+div#hero-prdversion
+{
+	text-align: left;
+	display: block;
+	font-size: 16px;
+}
+
+div#hero-gadate
+{
+	display: block;
+	text-align: right;
+	font-size: 16px;
+}
+
+div.prdDescription
+{
+	padding-top: 16px;
+	font-size: 18px;
+	line-height: 1.4em;
+}
+
+div.section-container
+{
+	background-color: white;
+	margin: 80px;
+	box-shadow: 1px 1px 2px gray;
+	border-radius: 10px;
+}
+
+h2
+{
+	margin-top: 0;
+	padding: 15px;
+	color: coral;
+	background-color: #fcfcfc;
+	box-shadow: 0 1px 2px #bbb;
+    border-radius: 10px 10px 0 0;
+	font-size: 24px;
+	letter-spacing: 0.4px;
+}
+
+div.videos-section	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.videos-section::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.videos-section::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.videos-section > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.videos-section > div:nth-child(1)
+{
+	width: 33.33333%;
+	margin-left: 0%;
+}
+
+div.videos-section > div:nth-child(2)
+{
+	width: 33.33333%;
+	margin-left: 0%;
+}
+
+div.videos-section > div:nth-child(3)
+{
+	width: 33.33333%;
+	margin-left: 0%;
+}
+
+div.product-info,
+div.product-banner	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.product-info::before,
+div.product-banner::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.product-info::after,
+div.product-banner::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+
+div.product-banner > div:nth-child(1)
+{
+	width: 75%;
+	margin-left: 0%;
+}
+
+div.product-banner > div:nth-child(2)
+{
+	width: 25%;
+	margin-left: 0%;
+}
+
+div.product-info > div,
+div.product-banner > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.product-info > div:nth-child(1)
+{
+	width: 50%;
+	margin-left: 0%;
+}
+
+div.product-info > div:nth-child(2)
+{
+	width: 50%;
+	margin-left: 0%;
+}
+
+div.whats-new
+{
+	margin: 20px;
+	padding-bottom: 20px;
+}
+
+div.link-tiles
+{
+	margin: 20px;
+	padding: 0 0 20px 0;
+	border: 0;
+}		  
+p.show-more
+{
+	color: #318dde;
+}
+div.dt
+{
+	font-size: 1.3em;
+	font-weight: normal;
+}
+
+span.link-tile-heading
+{
+	
+}
+
+span.link-tile-text
+{
+	
+}
+
+/** Dropdown styles for various sections in the homepage**/
+MadCap|dropDownHead
+{
+	font-size: 18px;
+	/**border-radius: 3px 3px 0 0;
+	box-shadow: 0 2px 2px 0 rgb(0 0 0 / 10%);**/
+	padding: 20px 48px 20px 24px;
+	line-height: 1.5em;
+	font-weight: 600;
+	background-color: white;
+	border: 1px solid rgb(229, 232, 236);
+	border-radius: 8px;
+}
+
+MadCap|dropDown
+{
+	background-color: white;
+	margin: 32px 10%;
+	/**border-radius: 3px;
+	box-shadow: 0 4px 7px 0 rgb(0 0 0 / 33%);
+	border: none;
+	**/
+	border: 1px solid rgb(229, 232, 236);
+	border-radius: 8px;
+}
+
+div.MCDropDown_Closed
+{
+	background-color: transparent;
+	margin: 32px 10%;
+	/**border-radius: 3px;
+	box-shadow: 0 4px 7px 0 rgb(0 0 0 / 33%);
+	border: none;**/
+}
+
+.dropDownBody
+{
+	margin-right: 6%;
+}
+
+MadCap|dropDownBody
+{
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+
+.dropDownwhats-new > .dropDownBody
+{
+	background-image: url('../Images/Logos/black_innovation.png');
+	background-size: 150px;
+	padding-right: 150px;
+}
+
+.dropDownrelease-docs > .dropDownBody
+{
+	background-image: url('../Images/Logos/black_document_and_digital_asset2.png');
+	background-size: 150px;
+	padding-right: 150px;
+}
+
+.dropDownpdf-guides > .dropDownBody
+{
+	background-image: url('../Images/Logos/black_case_management2.png');
+	background-size: 150px;
+	padding-right: 150px;
+}
+
+.dropDownvideos > .dropDownBody
+{
+	background-image: url('../Images/Logos/black_ondemand_training.png');
+	background-size: 150px;
+	padding-right: 150px;
+}
+
+.MCDropDown_Open
+{
+	/**box-shadow: 0 8px 14px 0 rgb(0 0 0 / 33%);
+	border: none;**/
+}
+
+.dropDownBody ul
+{
+	list-style: none;
+	padding: 6px 24px;
+}
+
+.dropDownwhats-new ul,
+.dropDownrelated-products .dropDownBody ul
+{
+	list-style-type: disc;
+}
+
+.dropDownwhats-new .dropDownBody,
+.dropDownrelated-products .dropDownBody
+{
+	margin-left: 6%;
+	padding-bottom: 2%;
+}
+
+.dropDownrelease-docs .dropDownBody ul li,
+.dropDownpdf-guides .dropDownBody ul li,
+.dropDownvideos .dropDownBody ul li
+{
+	margin: 0;
+	padding: 12px;
+}
+
+.dropDownrelated-products .dropDownBody li a
+{
+	padding: 0;
+}
+
+.dropDownBody li a
+{
+	border: none;
+	background-position: left;
+	background-color: transparent;
+	background-image: none;
+}
+
+.dropDownrelease-docs .dropDownBody li a:hover,
+.dropDownpdf-guides .dropDownBody li a:hover,
+.dropDownvideos .dropDownBody li a:hover,
+.dropDownrelated-products .dropDownBody li a:hover
+{
+	border: none;
+	background-color: hsl(0, 0%, 95%);
+	border-radius: 3px;
+}
+
+.dropDownBody li a.video
+{
+	background-image: url('../Images/Logos/ondemand_video_lightblack.svg');
+	background-size: 28px;
+	background-position-y: center;
+	background-repeat: no-repeat;
+	background-position-x: 12px;
+	padding: 10px 20px 10px 58px;
+}
+
+.dropDownBody li a.txt
+{
+	background-image: url('../Images/Logos/txt-icon-lightblack.svg');
+	background-position-y: center;
+	background-repeat: no-repeat;
+	background-position-x: 12px;
+	padding: 10px 20px 10px 64px;
+	background-size: 40px;
+}
+
+.dropDownBody li a.pdf
+{
+	background-image: url('../Images/Logos/pdf-icon-lightblack.svg');
+	background-position-y: center;
+	background-repeat: no-repeat;
+	background-position-x: 12px;
+	padding: 10px 20px 10px 64px;
+	background-size: 40px;
+}
+
+/** Download button styles **/
+
+div.download-button
+{
+	margin: 32px 10%;
+	text-align: right;
+}
+
+div.download-button a
+{
+	font-size: 16px;
+	line-height: 1.5em;
+	margin: 0;
+	padding: 12px 52px 12px 16px;
+	background-color: white;
+	background-image: url('../Images/Logos/icon-download.svg');
+	background-repeat: no-repeat;
+	background-position: 132px 7px;
+	color: var(--linkColor);
+	background-size: 24px;
+	border: 1px solid var(--linkColor);
+	border-radius: 3px;
+}
+
+div.download-button a:hover
+{
+	border-color: var(--linkHoverColor);
+	background-color: transparent;
+	color: var(--linkHoverColor);
+	box-shadow: 2px 2px 7px 0px #cccccc;
+}
+
+div.download-button a:active
+{
+	box-shadow: inset 0 0 0 2px #0e4f9e;
+}
+
+
+
+#versionDropDown
+{
+	border: none;
+    /*margin-left: 10px;
+    box-shadow: 1px 1px 1px grey;
+    border-radius: 3px;
+    padding: 4px 10px;
+    font-weight: bold;
+	*/
+	font-size: 16px;
+    color: white;
+    background-color: transparent;
+    display: inline-block;
+   width: 80px;
+   
+}
+
+#versionDropDown option{
+    border: none;
+    color: #ffffff;
+    background-color: #035792de;
+}
+
+#versionDropDown option:hover
+{
+    background-color: #092c46de;
+}
+
+#redirect
+{
+	display: inline-block;
+    font-size: 16px;
+    padding: 16px 0;
+    background-color: #4877b166;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+#redirect > p
+{
+	margin: 0px;
+}
+
+#redirect a
+{
+    background-color: #4877b166;
+    color: white;
+	background-image: url(../Images/Logos/arrow-back-white.svg);
+	padding: 16px;
+    background-size: 20px;
+    background-position: 12px 16px;
+    padding-left: 38px;
+    border: none;
+	background-repeat: no-repeat;
+}
+
+#redirect a:hover
+{
+	text-decoration-line: underline !important;
+    
+}
+/** Survey button styles **/
+
+#surveyLink
+{
+	margin: 38px 10%;
+	
+}
+
+#surveyLink a
+{
+	font-size: 16px;
+	line-height: 1.5em;
+	margin: 0;
+	padding: 8px 16px 9px 32px;
+	background-color: white;
+	background-image: url('../Images/Logos/document.svg');
+	background-repeat: no-repeat;
+	background-position: 11px 10px;
+	color: var(--linkColor);
+	background-size: 14px;
+	border: 1px solid var(--linkColor);
+	border-radius: 4px;
+}
+
+#surveyLink a:hover
+{
+	border-color: var(--linkHoverColor);
+	background-color: transparent;
+	color: var(--linkHoverColor);
+	box-shadow: 2px 2px 7px 0px #cccccc;
+}
+
+#surveyLink a:active
+{
+	box-shadow: inset 0 0 0 2px #0e4f9e;
+}
+
+
+@media tablet
+{
+	div.videos-section > div:nth-child(1)
+	{
+		margin-left: 0%;
+		width: 50%;
+	}
+
+	div.videos-section > div:nth-child(2)
+	{
+		margin-left: 0%;
+		width: 50%;
+	}
+
+	div.videos-section > div:nth-child(3)
+	{
+		margin-left: 0%;
+		width: 50%;
+	}
+
+	div.product-info > div:nth-child(1)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.product-info > div:nth-child(2)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.whats-new
+	{
+		
+	}
+
+	p.show-more
+	{
+		
+	}
+}
+
+@media mobile
+{
+	div.product-banner > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+	
+	div.product-banner > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+	div.prdDescription{
+		padding: 10px;
+		font-size: 16px;
+		
+	}
+	#redirect
+	{
+		margin-top: 10px;
+		margin-left: 10px;
+		font-size: 14px;
+		padding: 12px 0;
+	}	
+	#redirect a
+	{
+		padding: 14px 14px 14px 40px;
+		background-position: 12px 14px;
+	}
+	div.homepage-banner-shade
+	{
+		padding: 32px;
+	}
+	h1.heroTitle
+	{
+		font-size: 24px;
+		padding: 10px;
+	}
+	div.videos-section > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.videos-section > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.videos-section > div:nth-child(3)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.product-info > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.product-info > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+		text-align: left;
+	}
+
+	div#hero-gadate
+	{
+		text-align: left;
+	}
+	
+	div#release-info
+	{
+		padding:0 10px;
+	}
+	div#ga-date,
+	div#product-version
+	{
+		border-radius: 3px;
+		margin-top: 16px;
+		font-size: 16px;
+		padding: 14px 14px 14px 18px;
+	}
+	.dropDownwhats-new > .dropDownBody
+	{
+		background-image: none;
+		padding-right: 0;
+	}
+
+	.dropDownrelease-docs > .dropDownBody
+	{
+		background-image: none;
+		padding-right: 0;
+	}
+
+	.dropDownpdf-guides > .dropDownBody
+	{
+		
+		background-image: none;
+		padding-right: 0;
+	}
+
+	.dropDownvideos > .dropDownBody
+	{
+		background-image: none;
+		padding-right: 0;
+	}
+		
+
+	.dropDownrelease-docs .dropDownBody ul li,
+	.dropDownpdf-guides .dropDownBody ul li,
+	.dropDownvideos .dropDownBody ul li
+	{
+		padding: 6px 6px 6px 0;
+	}
+
+	.dropDownBody li a.video,
+	.dropDownBody li a.txt,
+	.dropDownBody li a.pdf
+	{
+		background-position-x: 0px;
+		padding: 10px 10px 10px 48px;
+	}
+}

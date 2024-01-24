@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="HTML5 ouput which contains all the guides in one documentation set."
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp"
+  Skin="/Project/Skins/HTML5Combo.flskn"
+  ConditionTagExpression="include[Default.ScreenOnly], exclude[Default.PrintOnly or GlobalConditions.Confidential or GlobalConditions.CTXJavaScript or GlobalConditions.DoNotImport or GlobalConditions.ExcludeFromBuilds]"
+  MasterStylesheet="/Content/Resources/Stylesheets/tibco.css"
+  PartialWordSearch="true"
+  TopNavTocPath="true"
+  TOCChunkSize="1000000"
+  TopicToolbarSkin="/Project/Skins/Toolbar_Skin.flskn"
+  MoveOutputContentToRoot="true"
+  ReplaceSpacesWithUnderscores="true"
+  MakeFileLowerCase="false"
+  SearchDatabaseChunkSize="70000"
+  DefaultUrl="/Content/_templates/Home.htm"
+  MasterToc="/Project/TOCs/_HTML Docset.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <Variables>
+    <Variable
+      Name="productvar/bookName"> </Variable>
+    <Variable
+      Name="productvar/bookname_lowercase"> </Variable>
+  </Variables>
+</CatapultTarget>

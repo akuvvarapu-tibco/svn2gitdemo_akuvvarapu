@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/_globalpages/title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="title"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/title.flpgl"
+    ReplaceMergeNode="false"
+    conditions="Default.PrintOnly" />
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/_globalpages/contents.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/main.flpgl"
+    conditions="Default.PrintOnly" />
+  <TocEntry
+    Title="New Book 2">
+    <TocEntry
+      Title="New entry 3" />
+    <TocEntry
+      Title="New entry 4" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/_templates/documentation-and-support-services.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.PrintOnly" />
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/_templates/Legal-and-Third-Party-Notices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="none"
+    conditions="Default.PrintOnly" />
+</CatapultToc>

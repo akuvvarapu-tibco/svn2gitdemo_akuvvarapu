@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="GlobalConditions.DoNotImport">
+  <Variable
+    Comment="Product name"
+    Name="productName"
+    EvaluatedDefinition="product-name®">product-name®</Variable>
+  <Variable
+    Comment="Book name for title page. Can add multiple value for each guide."
+    Name="bookName"
+    EvaluatedDefinition="User Guide">User Guide</Variable>
+  <Variable
+    Name="productVersion"
+    Comment="Version for title page"
+    EvaluatedDefinition="productVersion-variable">productVersion-variable</Variable>
+  <Variable
+    Name="GADate"
+    Comment="GA release month of the product"
+    EvaluatedDefinition="release-date">release-date</Variable>
+  <Variable
+    Name="productID"
+    Comment=""
+    EvaluatedDefinition="productID-variable">productID-variable</Variable>
+  <Variable
+    Name="bookName"
+    Comment=""
+    EvaluatedDefinition="Installation">Installation</Variable>
+  <Variable
+    Name="bookName"
+    Comment=""
+    EvaluatedDefinition="Release Notes">Release Notes</Variable>
+  <Variable
+    Name="copyright"
+    Comment="Copyright: range for existing docs"
+    Type="DateTime"
+    LastUpdated="2020-05-11T17:26:28.6462796+05:30"
+    EvaluatedDefinition="xxxx-yyyy">xxxx-yyyy</Variable>
+  <Variable
+    Name="copyright"
+    Comment="Copyright: current year for a new guide"
+    Type="DateTime"
+    LastUpdated="2020-05-13T09:19:00.5278859+05:30"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="bookName"
+    Comment="Use this definition for HTML targets"
+    EvaluatedDefinition=" "> </Variable>
+  <Variable
+    Name="bookname_lowercase"
+    Comment="Book name for pdf file name. Can add multiple value for each guide."
+    EvaluatedDefinition="user-guide">user-guide</Variable>
+  <Variable
+    Name="bookname_lowercase"
+    Comment=""
+    EvaluatedDefinition="installation">installation</Variable>
+  <Variable
+    Name="bookname_lowercase"
+    Comment=""
+    EvaluatedDefinition="relnotes">relnotes</Variable>
+  <Variable
+    Name="bookname_lowercase"
+    Comment="Use this definition for HTML targets"
+    EvaluatedDefinition=" "> </Variable>
+  <Variable
+    Name="productVersionWithDash"
+    Comment="Version with dash instead of period for the Download help button"
+    EvaluatedDefinition="productVersionWithDash">productVersionWithDash</Variable>
+</CatapultVariableSet>

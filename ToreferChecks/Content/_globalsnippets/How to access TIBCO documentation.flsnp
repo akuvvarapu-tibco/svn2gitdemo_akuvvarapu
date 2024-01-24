@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head />
+    <body>
+        <div class="section">
+            <h2 class="sectiontitle">How to Access <MadCap:variable name="globalvar.bu-name" /> Documentation</h2>
+            <p> Documentation for <MadCap:variable name="globalvar.bu-name" /> products is available on the <a href="https://docs.tibco.com/" target="_blank" rel="noopener noreferrer" title="Open the product documentation website" alt="Open the product documentation website">Product Documentation website</a>, mainly in HTML and PDF formats. 
+	 </p>
+            <p> The <a href="https://docs.tibco.com/" target="_blank" rel="noopener noreferrer" title="Open the product documentation website" alt="Open the product documentation website">Product Documentation website</a> is updated frequently and is more current than any other documentation included with the product.</p>
+        </div>
+    </body>
+</html>

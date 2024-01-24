@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+<script type="text/javascript"> var uri = document.documentURI; var host = document.domain; var filename = uri.split(host).pop(); function gaId (){ var id; switch (host) { case "docs.tibco.com": id = "UA-28375153-1"; break; case "stag-docs.tibco.com": id="UA-28375153-3"; break; case "integration.cloud.tibco.com": id="UA-28375153-2"; break;  case "events.cloud.tibco.com": id="UA-28375153-6"; break; case "account.cloud.tibco.com": id="UA-28375153-7"; break; default: id = "UA-28375153-1"; } return id; }let self = this;(function(){(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', self.gaId (), 'auto', {'name':'t'});ga('t.send', 'event', 'Document-view', filename, ""); ga('t.send', 'pageview',{'page': window.location.href.replace(window.location.protocol+"//"+window.location.hostname,''),'title': document.title}); })();</script>
+    <script type="text/javascript" defer="defer" src="../Scripts/scroll-to-top.js">
+        </script>
+    <script type="text/javascript" defer="defer" src="../Scripts/google-analytics-gtm.js">
+        </script>
+        
+    </head>
+    <body>
+        
+        <div id="prdnm" MadCap:conditions="GlobalConditions.EnterpriseHelp"><MadCap:variable name="productvar.productName" /> <MadCap:variable name="productvar.productVersion" /></div>
+        <div class="toolbar">
+            <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: PreviousTopic NextTopic Separator RemoveHighlight Print;" />
+        </div>
+        <div class="page-content">
+            <div class="breadcrumbs">
+                <MadCap:breadcrumbsProxy />
+            </div>
+            
+            <div class="topic-frame">
+                <div>
+                    <MadCap:bodyProxy />
+                    <MadCap:miniTocProxy MadCap:conditions="GlobalConditions.AutoMiniTOC" style="mc-toc-depth: 1;" MadCap:autonum="Subtopics" />
+                </div>
+                <div>
+            <div id="feedback-survey">
+                <div class="feedback-question">
+                    <p>Did you find this helpful? </p>
+                    <div><a class="feedback-button feedback-yes" href="javascript:void(0)" title="Yes, this article was helpful." alt="Yes, this article was helpful.">Yes</a><a class="feedback-button feedback-no" href="javascript:void(0)" title="No, this article wasn't helpful." alt="No, this article wasn't helpful.">No</a>
+                    </div>
+                </div>
+                <!--message to be displayed on clicking the "Yes" button-->
+                <div class="feedback-reason yes-thanks feedback_card yes_card" style="display:none;">
+                    <div class="card_header yes_card_header">Great! </div>
+                    <div class="card_body yes_card_body">Thanks for taking the time to give us some feedback.</div>
+                </div>
+                <!--message and follow up questions for the "No" response-->
+                <div class="feedback-reason no feedback_card no_card" style="display:none;">
+                    <div class="card_container no_card_container">
+                        <div class="card_header no_card_header" id="feedback-no-heading">Sorry about that</div>
+                        <form id="form1" onSubmit="sendOtherFeedback(); return false;">
+                            <div class="card_body no_card_body">
+                                <div class="card_body_section card_body_options_section" id="options">
+                                    <p>Why wasn't this helpful? (check all that apply)</p>
+                                    <div class="feedback-option">
+                                        <label for="option1">Could not find what I was looking for<input type="checkbox" name="option1" class="option no" id="option1" value="Could not find what I was looking for" data-analytics-label="Could not find what I was looking for" /><span class="checkmark"></span></label>
+                                    </div>
+                                    <div class="feedback-option">
+                                        <label for="option2">Instructions confusing or unclear<input type="checkbox" name="option2" class="option no" id="option2" value="Instructions confusing or unclear" data-analytics-label="Instructions confusing or unclear" /><span class="checkmark"></span></label>
+                                    </div>
+                                    <div class="feedback-option">
+                                        <label for="option3">Instructions did not work<input type="checkbox" name="option3" class="option no" id="option3" value="Instructions did not work" data-analytics-label="Instructions did not work" /><span class="checkmark"></span></label>
+                                    </div>
+                                </div>
+                                <div class="card_body_section card_body_otherfeedback_section" id="otherfeedback">
+                                    <p>Want to tell us more?</p><textarea cols="45" rows="4" name="comments" class="card_textarea" id="myTextarea" placeholder="Enter your feedback here."></textarea>
+                                    <p id="commentsRequired" style="display:none">Please select at least one option or provide details about the issue!!</p>
+                                </div>
+                            </div>
+                            <div class="card_footer">
+                                <button id="feedback-skip" type="button" value="Skip" onclick="skipFeedback(); return false;">Skip</button>
+                                <button id="feedback-submit" type="submit" form="form1" value="Submit">Submit</button>
+                            </div>
+                        </form>
+                        <p id="feedbackError" style="display:none"><b>Error occurred while submitting feedback.</b>
+                        </p>
+                        <p id="feedbackError2" style="display:none"><b>Error2 occurred while submitting feedback.</b>
+                        </p>
+                        <!--<script type="text/javascript" src="../Scripts/feedback-script.js"> </script>-->
+                        <div id="feedback-product" style="display:none"><MadCap:variable name="productvar.productName" /> </div>
+                    </div>
+                </div>
+            </div>
+
+                </div>
+            </div>
+            <div class="topic-frame">
+                
+                <div>
+                    <MadCap:relationshipsProxy />
+                </div>
+            </div>
+        </div>
+        <div>
+            <p class="Copyright">
+                <MadCap:snippetText src="../../_globalsnippets/Copyright.flsnp" />
+            </p>
+        </div>
+        <!-- Used for getting the document URL to copy -->
+        <input type="hidden" id="input-url" value="Copy the current page URL without TOC path!" />
+        <script type="text/javascript" src="../Scripts/main-content.js">
+        </script>
+        <script type="text/javascript" src="../Scripts/external-links.js">
+        </script>
+        <script type="text/javascript" src="../Scripts/feedback.js">
+        </script>
+    </body>
+</html>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="4"
+  Comment="This is the default skin"
+  Anchors="Width,Height"
+  Width="800"
+  Height="600"
+  Top="0"
+  Left="0"
+  Bottom="0"
+  Right="0"
+  Tabs="TOC,Index,Search,Community"
+  DefaultTab="TOC"
+  UseBrowserDefaultSize="True"
+  UseDefaultBrowserSetup="True"
+  ToolbarInTopic="false"
+  Title="[%=productvar.productName%]">
+  <Index
+    BinaryStorage="True" />
+  <HtmlHelpOptions
+    ShowMenuBar="False"
+    TopmostWindowStyle="False"
+    Buttons="Hide,Locate,Back,Forward,Stop,Refresh,Home,Print"
+    EnableButtonCaptions="True" />
+  <Stylesheet />
+  <WebHelpOptions
+    NavigationPaneWidth="240" />
+  <Toc
+    LinesBetweenItems="true"
+    AlwaysShowSelection="true"
+    PlusMinusSquares="true"
+    SingleClick="true"
+    Border="None" />
+  <Toolbar
+    EnableCustomLayout="true"
+    Buttons="" />
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="NextTopic|PreviousTopic" />
+</CatapultSkin>

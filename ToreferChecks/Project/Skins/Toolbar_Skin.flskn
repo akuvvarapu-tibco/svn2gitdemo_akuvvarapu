@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="4"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Toolbar">
+        <Properties>
+          <Property
+            Name="Float">right</Property>
+          <Property
+            Name="MarginLeft">20px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="ToolbarItem">
+        <Properties>
+          <Property
+            Name="BackgroundColor">transparent</Property>
+          <Property
+            Name="Height">28px</Property>
+          <Property
+            Name="PaddingLeft">0px</Property>
+          <Property
+            Name="BorderBottomRightRadius">6px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">6px</Property>
+          <Property
+            Name="BorderTopRightRadius">6px</Property>
+          <Property
+            Name="BorderTopLeftRadius">6px</Property>
+          <Property
+            Name="Width">44px</Property>
+          <Property
+            Name="BackgroundGradient">vertical transparent transparent</Property>
+          <Property
+            Name="BoxShadowHShadow">0px</Property>
+          <Property
+            Name="BoxShadowVShadow">0px</Property>
+          <Property
+            Name="BoxShadowBlur">0px</Property>
+          <Property
+            Name="BorderTop">none 0px #e1e1e1</Property>
+          <Property
+            Name="BorderRight">none 0px #e1e1e1</Property>
+          <Property
+            Name="BorderBottom">none 0px #e1e1e1</Property>
+          <Property
+            Name="BorderLeft">none 0px #e1e1e1</Property>
+          <Property
+            Name="ButtonIconHeight">28px</Property>
+          <Property
+            Name="ButtonIconWidth">44px</Property>
+        </Properties>
+        <Classes>
+          <StyleClass
+            Name="NextTopic">
+            <Properties></Properties>
+          </StyleClass>
+          <StyleClass
+            Name="PreviousTopic">
+            <Properties></Properties>
+          </StyleClass>
+          <StyleClass
+            Name="Print">
+            <Properties></Properties>
+          </StyleClass>
+          <StyleClass
+            Name="RemoveHighlight">
+            <Properties></Properties>
+          </StyleClass>
+          <StyleClass
+            Name="CopyURL"
+            Custom="true">
+            <Properties>
+              <Property
+                Name="BackgroundRepeat">no-repeat</Property>
+              <Property
+                Name="BackgroundPosition">center center</Property>
+              <Property
+                Name="Click">copyURL()</Property>
+              <Property
+                Name="BackgroundColor">transparent</Property>
+              <Property
+                Name="ButtonIcon">url('ic-copy-link.png')</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="ToolbarItem">
+          <Classes>
+            <StyleClass
+              Name="CopyURL">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
+        </Style>
+      </Medium>
+      <Style
+        Name="Toolbar Button Separator">
+        <Properties>
+          <Property
+            Name="Height">35px</Property>
+          <Property
+            Name="Color">#a9a9a9</Property>
+        </Properties>
+      </Style>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="ToolbarItem">
+          <Classes>
+            <StyleClass
+              Name="CopyURL">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+                <Property
+                  Name="Display">block</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="Print">
+              <Properties>
+                <Property
+                  Name="Display">block</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="RemoveHighlight">
+              <Properties>
+                <Property
+                  Name="Display">block</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="NextTopic">
+              <Properties>
+                <Property
+                  Name="Display">block</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="PreviousTopic">
+              <Properties>
+                <Property
+                  Name="Display">block</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
+          <Properties>
+            <Property
+              Name="Display">block</Property>
+            <Property
+              Name="BorderBottom">solid 0px #87ceeb</Property>
+            <Property
+              Name="BorderRight">solid 0px #87ceeb</Property>
+            <Property
+              Name="BoxShadowColor">#808080</Property>
+            <Property
+              Name="Width">46px</Property>
+            <Property
+              Name="BoxShadowBlur">0px</Property>
+            <Property
+              Name="ButtonIconWidth">46px</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Toolbar">
+          <Properties>
+            <Property
+              Name="MarginLeft">0px</Property>
+            <Property
+              Name="Float">right</Property>
+          </Properties>
+        </Style>
+      </Medium>
+    </Styles>
+    <Resources>
+      <Resource
+        Name="ic-copy-link.png">H4sIAAAAAAAEAAG+AUH+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxMAAAsTAQCanBgAAAFTSURBVDhPjdNLK4VRFMZxBsSAgU/A4CghRUoIc4pcBmyZICMkOcrIwIcwkjKXTEinTJSRL6DMkMgtuefyf7SX1nkdMvjVXmvvvfba7yUvhGCGcYyPhCtUwa/rtNiSc3hDcrNpQz42XG4TZdo8GBMnGEI7OpwGFGILWreIpTjOqMBlDAZgHXlF2IXWTMacpJXTQBPSApv0ynGGaZeTLmQVULt+QTEWUBLjeVygAI14xNFvBXTnHVhnY3G8Dj0jbVZXqVwFdOftmBvFRByvQfOHuEWFYl9AlRWvxHgmxmp9GTUoRT2qoYPSvkArFN9jL45NLV6x6nK9yHqI1kEGD7CvT4W1WXfW6VagDznfQh2e8QKdqDltroRtlh8dNMMmm7AP5Q+Qgs2Z7+/gVAOMILnoL7P4KqBK77jGFNSa9EB/XbfLGf18T7izauO4gV3nP85DCP2fna+Kj9dd1WQAAAAASUVORK5CYIJsX0/uvgEAAA==</Resource>
+    </Resources>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <Strings />
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="PreviousTopic|NextTopic|Print|RemoveHighlight|CopyURL">
+    <Script>if(document.getElementsByClassName("copy-url-button")[0])
+{
+	document.getElementsByClassName("copy-url-button")[0].setAttribute("title", "Copy the document URL");
+}
+</Script>
+  </TopicToolbar>
+</CatapultSkin>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/_globalpages/title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="title"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/title.flpgl"
+    ReplaceMergeNode="false"
+    conditions="Default.PrintOnly" />
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/_globalpages/contents.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/main.flpgl"
+    conditions="Default.PrintOnly" />
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/Release-Notes/New-Features.htm"
+    BreakType="none"
+    PageNumber="1" />
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/Release-Notes/Changes-in-Functionality.htm"
+    BreakType="none"
+    PageNumber="1" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Release-Notes/Deprecated-Features.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Release-Notes/Removed-Features.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/Release-Notes/Migration.htm"
+    BreakType="none"
+    PageNumber="1" />
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/Release-Notes/Closed-Issues.htm"
+    BreakType="none"
+    PageNumber="1" />
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/Release-Notes/Known-Issues.htm"
+    BreakType="none"
+    PageNumber="1" />
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/_templates/documentation-and-support-services.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="none"
+    conditions="Default.PrintOnly"
+    PageNumber="1" />
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/_templates/Legal-and-Third-Party-Notices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="none"
+    conditions="Default.PrintOnly"
+    PageNumber="1" />
+</CatapultToc>

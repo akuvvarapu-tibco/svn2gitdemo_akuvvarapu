@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+	<Page Name="Title page" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BackgroundRepeat="repeat" BackgroundImage="../Images/Logos/Draft.png">
+		<Frame X="444px" Y="-20px" Width="2.166667in" Height="1.020833in" Right="-28px" Bottom="786px" BackgroundImage="none" BackgroundRepeat="no-repeat" Anchors="" BackgroundColor="#0083cc" Flow="decoration0">
+			<Content>
+				<xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+					<xhtml:body>
+						<xhtml:p xhtml:style="text-align: right;">
+							<xhtml:img xhtml:src="../Images/Logos/ibi-logo-color-dark-rgb.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:id="tibco-logo" MadCap:mediastyle="@media print { width: auto;height: 64px; }" />
+						</xhtml:p>
+					</xhtml:body>
+				</xhtml:html>
+			</Content>
+		</Frame>
+		<Frame X="-96px" Y="906px" Width="816px" Height="54px" Flow="decoration2" Right="-96px" Bottom="-96px" BackgroundType="Solid" BackgroundColor="#0046da" BackgroundColorAlt="#0046da" Anchors="" TextAlign="center">
+			<Content>
+				<xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+					<xhtml:body xhtml:style="text-align: center; vertical-align: middle; padding-top:10px">
+						<xhtml:table xhtml:style="margin-left: auto; margin-right: auto; text-align: center;margin-top:0px; margin-bottom:0px">
+							<xhtml:col xhtml:style="width: 108px;" />
+							<xhtml:col />
+							<xhtml:tbody>
+								<xhtml:tr xhtml:style="height: 24px">
+									<xhtml:td xhtml:style="vertical-align: middle;border-right: solid 1.5px #fff;">
+										<xhtml:img xhtml:src="../Images/Logos/cloud-software-group-logo-one-color-reverse.png" xhtml:style="border: none;width: auto;height: 24px;vertical-align: middle;padding-top: 0px;margin-top: 2px;" />
+									</xhtml:td>
+									<xhtml:td xhtml:style="vertical-align: middle;color: #ffffff;font-size: 10pt;padding-left: 12px;">
+										<MadCap:snippetText xhtml:src="../../_globalsnippets/Copyright.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="line-height: .8em;padding-left: 20px;" />
+									</xhtml:td>
+								</xhtml:tr>
+							</xhtml:tbody>
+						</xhtml:table>
+					</xhtml:body>
+				</xhtml:html>
+			</Content>
+		</Frame>
+		<Frame X="-96px" Y="656px" Width="816px" Height="248px" Flow="decoration3" Right="-96px" Bottom="-40px" BackgroundRepeat="stretch" Anchors="" BackgroundImage="../Images/Logos/title-bg.png" />
+		<Frame X="-96px" Y="-96px" Width="10px" Height="845px" Flow="decoration3" Right="710px" Bottom="115px" BackgroundType="Solid" BackgroundColorAlt="#0046da" BackgroundColor="#0046da" Anchors="" FlowIndex="1" />
+		<Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-16px" Y="2.21875in" Width="6.958333in" Height="2.760417in" Right="-28px" Bottom="386px" BackgroundColor="#deeff6">
+		</Frame>
+	</Page>
+</PageStyles>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="concept"
+  FileTitle="TIBCO Documentation and Support Services"
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/globalvar.flvar" />
+    <Link
+      Url="Content/_globalsnippets/How to access TIBCO documentation.flsnp" />
+    <Link
+      Url="Project/VariableSets/productvar.flvar" />
+    <Link
+      Url="http://docs.tibco.com/" />
+    <Link
+      Url="Content/_globalsnippets/How to contact TIBCO support.flsnp" />
+    <Link
+      Url="Content/_globalsnippets/How to join TIBCO Community.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/globalvar.flvar" />
+    <Link
+      Url="Content/_globalsnippets/How to access TIBCO documentation.flsnp" />
+    <Link
+      Url="Project/VariableSets/productvar.flvar" />
+    <Link
+      Url="http://docs.tibco.com/" />
+    <Link
+      Url="Content/_globalsnippets/How to contact TIBCO support.flsnp" />
+    <Link
+      Url="Content/_globalsnippets/How to join TIBCO Community.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="globalvar.bu-name" />
+    <Variable
+      Name="productvar.productName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

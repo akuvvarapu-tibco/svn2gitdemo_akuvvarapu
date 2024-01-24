@@ -1,0 +1,405 @@
+/*<meta />*/
+/*container for the feedback*/
+div#feedback-survey
+{
+	margin-top: 60px;
+    padding-left: 24px;
+	padding-right: 24px;
+    text-align: center;
+    max-width: 720px;
+    border-left: solid 1px lightgrey;
+	margin-bottom: 36px;
+	mc-hidden: hidden;
+	position: fixed;
+}
+/*Styles for feedback buttons - "Yes" and "No" buttons have same style and differ only by icon 
+and text. Thus, this keeps styling consistent with our entire HTML help.*/
+div.feedback-question
+{
+	font-size: 15px;
+	font-weight: 600;
+	mc-hidden: hidden;
+}
+/*Yes and No buttons are styled as secondary button*/
+a.feedback-button,
+button#feedback-skip
+{
+	border: solid 1px #1774e5;
+    border-radius: 3px;
+    margin: 10px;
+	display: inline-block;
+	mc-hidden: hidden;
+	color: inherit;
+	font: inherit;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	cursor: pointer;
+	text-decoration: none;
+	max-height: 2rem;
+	padding: 7px 7px 7px 32px;
+	background-size: auto 16px;
+	background-repeat: no-repeat;
+	background-position: 14px center;
+	min-width: 28px;	
+}
+/*skip button is styled as text-only button as per TIBCO UX guidelines*/
+button#feedback-skip{
+	color: #1774e5;
+	background-color: transparent;
+	border-color: transparent;
+	padding: 7px 14px;
+	max-height: initial;
+	mc-hidden: hidden;
+	margin: 10px;
+	display: inline-block;
+	font: inherit;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+button#feedback-skip:hover{
+	background-color: transparent;
+  border-color: transparent;
+  color: #0e4f9e;
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.35);
+
+}
+
+a.feedback-button:hover
+{
+	border-color: #0e4f9e;
+	background-color: transparent;
+}
+
+a.feedback-button:focus,
+a.feedback-button.is-focussed,
+button#feedback-skip:focus,
+button#feedback-skip.is-focussed {
+  box-shadow: 0 0 2px 4px rgba(77, 190, 255, 0.75);
+  outline: none;
+}
+
+
+button#feedback-skip:active,
+button#feedback-skip.is-focussed {
+    box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.2);
+  color: #0e4f9e;
+}
+
+a.feedback-button:active,
+a.feedback-button.is-active {
+  border-color: #0e4f9e;
+  box-shadow: inset 0 0 0 2px #0e4f9e;
+  color: #0e4f9e;
+}
+
+a.feedback-yes
+{
+	background-image: url('../Images/Logos/thumb_up.svg');
+	mc-hidden: hidden;
+}
+
+a.feedback-no
+{
+	mc-hidden: hidden;
+	background-image: url('../Images/Logos/thumb_down.svg');
+}
+
+a.feedback-yes:hover,
+a.feedback-yes:focus
+{
+	background-image: url('../Images/Logos/thumb_up_hover.svg');
+
+}
+
+a.feedback-no:hover,
+a.feedback-no:focus
+{
+	background-image: url('../Images/Logos/thumb_down_hover.svg');
+}
+
+/* style for sections after clicking thumbs up or thumbs down*/
+div.feedback_card
+{
+	box-shadow: 0 8px 14px 0 rgba(0, 0, 0, 0.33);
+	background-color: white;
+	border-radius: 3px;
+	border: 2px solid #00000000;
+	font-size: 15px;
+	text-align:left;
+	-webkit-animation: pl-animation-modal-open 1s;
+		animation: pl-animation-modal-open 1s;
+	-webkit-animation-fill-mode: forwards;
+		animation-fill-mode: forwards;
+	-webkit-animation-duration: 0.3s;
+		animation-duration: 0.3s;
+	-webkit-animation-timing-function: ease-in;
+		animation-timing-function: ease-in;
+	mc-hidden: hidden;
+	
+}
+
+div.card_header
+{
+	font-size: 18px;
+    font-weight: 600;
+	box-shadow: 0 2px 2px 0 rgb(0 0 0 / 10%);
+	mc-hidden: hidden;
+}
+
+div.yes_card_header
+{
+	background-color: #e1f7eb;
+	padding: 8px 16px 8px 50px;
+	background-image: url('../Images/Logos/sentiment_satisfied_green.svg');
+	background-size: 24px;
+	background-position: 14px center;
+	background-repeat: no-repeat;
+	text-align: left;
+	mc-hidden: hidden;
+}
+div.no_card_header
+{
+	
+    background-color: #f9e1e3;
+    padding: 12px 12px 12px 50px;
+	background-image: url('../Images/Logos/sentiment_dissatisfied_red.svg');
+  background-size: 24px;
+  background-position: 14px center;
+  background-repeat: no-repeat;
+  mc-hidden: hidden;
+}
+div.card_body
+{
+	padding: 12px 24px;
+	background-color: #fafafa;
+	mc-hidden: hidden;
+}
+
+div.yes_card_body
+{
+	padding: 24px;
+	mc-hidden: hidden;
+}
+
+
+div.card_body_section
+{
+	padding:24px;
+	mc-hidden: hidden;
+}
+
+div.card_body_section p
+{
+	margin-top: 0px;
+	margin-bottom: 12px	;
+}
+div.card_body_otherfeedback_section
+{
+	border-top: 1px solid lightgray;
+	mc-hidden: hidden;
+}
+
+div.card_footer
+{
+	text-align: right;
+	margin-left: auto;
+	padding:12px 24px;
+	box-shadow: 0 -2px 2px 0 rgb(0 0 0 / 10%);
+	mc-hidden: hidden;
+}
+div.feedback-option
+{
+	line-height: 1.5em;
+	margin: 0 0 8px 0;
+	position: relative;
+	mc-hidden: hidden;
+	padding-left: 50px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+div.feedback-option::first-line
+{
+	margin-top:8px;
+}
+
+div.feedback-option input
+{
+	position: absolute;
+	opacity: 0;
+	height: 0;
+	width: 0;
+}
+
+
+
+/* Create a custom checkbox */
+span.checkmark {
+	position: absolute;
+	top: 3px;
+	left: 18px;
+	height: 16px;
+	width: 18px;
+	border: 1px solid #666;
+	background-color: transparent;
+	border-radius:3px;
+	mc-hidden: hidden;
+  }
+  
+  /* On mouse-over, add a grey background color */
+  div.feedback-option:hover input ~ span.checkmark {
+	
+	border-color:#0e4f9e;
+  }
+  
+  /* When the checkbox is checked, add a blue background */
+  div.feedback-option input:checked ~ span.checkmark {
+	background-color: #1774e5;
+  }
+  
+div.feedback-option:focus input:checked ~ span.checkmark
+{
+	box-shadow: 0 0 2px 4px rgba(77, 190, 255, 0.75);
+	outline: none;
+}
+
+div.feedback-option:active input:checked ~ span.checkmark
+{
+  border-color: #0e4f9e;
+  box-shadow: inset 0 0 0 2px #055dab;
+}
+  /* Create the checkmark/indicator (hidden when not checked) */
+  span.checkmark:after {
+	content: "";
+	position: absolute;
+	display: none;
+}
+  
+  /* Show the checkmark when checked */
+div.feedback-option input:checked ~ span.checkmark:after {
+	display: block;
+}
+  
+  /* Style the checkmark/indicator */
+div.feedback-option span.checkmark:after {
+	left: 6px;
+	top: 0px;
+	width: 4px;
+	height: 10px;
+	border: solid white;
+	border-width: 0 2px 2px 0;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+textarea#myTextarea
+{
+	  padding: 16px;
+	  font-family: inherit;
+	  font-size:15px;
+	  line-height: 1.5;
+	  border-radius: 3px;
+	  width: 95%;
+	  border: 1px solid #b6b6b6;
+	  padding-top:20px;
+  }
+
+  textarea#myTextarea:focus,
+  textarea#myTextarea:focus-visible
+  {
+	border: 0px solid #1774e5;
+    outline: 1px solid #1774e5;
+  }
+
+  button#feedback-submit
+  {
+	font: inherit;
+    line-height: 1.5;
+    border-radius: 3px;
+    padding: 7px 14px;
+    border: 1px solid;
+    cursor: pointer;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #1774e5;
+    border-color: #1774e5;
+    font-weight: 600;
+  }
+  button#feedback-submit:hover
+  {
+	background-color: #0e4f9e;
+	border-color: #0e4f9e;
+  }
+
+button#feedback-submit:focus, button#feedback-submit.is-focussed 
+{
+	box-shadow: 0 0 2px 4px rgba(77, 190, 255, 0.75);
+	outline: none;
+}
+
+button#feedback-submit:active, button#feedback-submit.is-active
+{
+  border-color: #0e4f9e;
+  box-shadow: inset 0 0 0 2px #055dab;
+}
+
+button#feedback-submit:disabled, button#feedback-submit.is-disabled 
+{
+  opacity: 0.35;
+  pointer-events: none;
+}
+p#commentsRequired
+{
+	margin-top: 1em;
+	mc-hidden: hidden;
+}
+
+@media only screen and (max-width: 1060px)
+{
+	div#feedback-survey
+	{
+		margin-top: 0;
+		margin-left: 8%;
+		margin-right: 8%;
+		padding-top:24px;
+		padding-left: 0;
+		padding-right: 0;
+		text-align: center;
+		max-width: 720px;
+		border-left: none;
+		border-top: solid 1px lightgray;
+		margin-bottom: 36px;
+		mc-hidden: hidden;
+		position: initial;
+	}
+	div.topic-frame > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.topic-frame > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+}
+
+@media mobile{
+	div#feedback-survey
+	{
+		margin-top: 0;
+		margin-left: 6%;
+		margin-right: 6%;
+		padding-top:24px;
+		mc-hidden: hidden;
+		position: initial;		
+	}
+}

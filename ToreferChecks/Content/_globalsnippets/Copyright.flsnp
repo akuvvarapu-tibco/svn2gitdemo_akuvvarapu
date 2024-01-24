@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="copy">Copyright © <MadCap:variable id="copyright-year" name="productvar.copyright" />. <MadCap:variable name="globalvar.company" /> All Rights Reserved.<MadCap:conditionalText MadCap:conditions="GlobalConditions.Confidential"> Confidential &amp; Proprietary.</MadCap:conditionalText></p>
+    </body>
+</html>

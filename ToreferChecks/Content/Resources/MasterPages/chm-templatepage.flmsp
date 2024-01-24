@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div id="prdnm" MadCap:conditions="GlobalConditions.EnterpriseHelp"><MadCap:variable name="productvar.productName" /> <MadCap:variable name="productvar.productVersion" /></div>
+        <div class="page-content">
+            <div class="breadcrumbs">
+                <MadCap:breadcrumbsProxy />
+            </div>
+            <MadCap:bodyProxy />
+            <MadCap:miniTocProxy MadCap:conditions="GlobalConditions.AutoMiniTOC" MadCap:autonum="Subtopics" />
+            <MadCap:relationshipsProxy />
+        </div>
+        <div>
+            <p class="Copyright">
+                <MadCap:snippetText src="../../_globalsnippets/Copyright.flsnp" />
+            </p>
+        </div>
+    </body>
+</html>

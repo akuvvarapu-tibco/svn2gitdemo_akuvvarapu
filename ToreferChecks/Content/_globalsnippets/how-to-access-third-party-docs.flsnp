@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <h2 class="sectiontitle">How to Access Related Third-Party Documentation </h2>
+            <div class="draft-comment" MadCap:autonum="Draft Comments: ">After inserting this snippet, right click the snippet block and select <span class="uicontrol">Convert to text</span>. You can edit the text after converting the snippet to text. If you update the snippet with product-specific information, it will be overridden after you reimport the global project in your project.</div>
+            <p class="draft-comment" MadCap:autonum="Draft Comments: ">This is an optional section. If the section is NOT applicable, then select the div tag and apply the <code>.draft-comment</code> style to hide the entire section OR&#160;delete the entire div tag and its content.</p>
+            <p>When working with <MadCap:variable name="productvar.productName" />, you may find it useful to read the documentation of the following third-party products:</p>
+            <p class="draft-comment" MadCap:autonum="Draft Comments: ">As needed, create a bulleted list of any third-party resources.</p>
+        </div>
+    </body>
+</html>

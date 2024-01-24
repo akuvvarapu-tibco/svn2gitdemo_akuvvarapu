@@ -1,0 +1,258 @@
+﻿
+/*@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Code+Pro&display=swap');*/
+
+@import url('source-sans-pro.css');
+
+@import url('source-code-pro.css');
+
+#home{
+  display: none;
+}
+
+div#header {
+    top: 0px;
+    left: 0px;
+height: 50px;
+box-shadow: 0px 2px 5px #cccccc;
+/*box-shadow: 0px 3px 6px #00000029;*/
+opacity: 1;
+    z-index: 9;
+    background-color: #EEEEEE;
+    border-bottom: none;
+
+}
+
+.logo {
+left: 15px;
+}
+#responsiveHeader
+{
+	box-shadow: 0px 2px 5px #cccccc;							
+ background-color: #EEEEEE;
+}
+
+#responsiveHeader .logo
+{
+	/*display: inline-block;
+	margin: 0;
+	position: absolute;
+	left: 60px;*/
+}
+
+.search-bar {
+	right:80px;
+margin-top: 9px;
+}
+.micro-response {
+	padding-left: 80px;
+}
+div#header-title
+{
+  top: 12px;
+left: 176px;
+height: 33px;
+   font-size: 20px;
+   color: #101010;
+   display: inline-block;
+   letter-spacing: 0.12px;
+   position: absolute;
+
+}
+div#responsive-header-title
+{
+	font-size: 1.8em;
+		color: #438bca;
+		display: inline-block;
+		position: absolute;
+		left: 180px;
+		top: 11px;
+		font-variant: small-caps;
+
+}
+
+#navigation
+{
+	background-color: #fafafa;
+}
+
+#contentBodyInner {
+	border:0;
+    top:0;
+    left:0;
+    right:0;
+}
+
+iframe.content {
+  top:0;
+  padding-top: 0px;
+  
+}
+ul.tabs-nav.clearfix.text-only {
+    display: none;
+}
+
+.search-account-container {
+    position: absolute;
+    display: inline-block;
+}
+
+#search-field,
+.search-field
+{
+	width: 340px;
+}
+
+#navigationResizeBar {
+    background-color: #eeeeee;
+    width: 4px;
+    position: absolute;
+    height: inherit;
+    top: 0;
+    bottom: 0;
+    cursor: col-resize;
+  /*  box-shadow: 1px 0 2px #949494;*/
+    z-index: 8;
+}
+#show-hide-navigation {
+  background-color: #eeeeee;
+}
+body {
+	letter-spacing: 0.5px;
+
+}
+
+ul.tree.inner{
+	padding-left:0;
+	padding-left:1.7em;
+}
+
+ul.tree > li > div {
+    border-bottom: 1px solid #e6e6e6;
+		padding-top:0.8em;
+		padding-bottom:0.8em;
+		padding-right: 0.5em;
+		padding-left:1.7em;
+}
+
+ul.tree.inner > li > div {
+    border-bottom: 0px none;
+		padding-top:0.5em;
+		padding-bottom: 0.5em;
+		padding-left:1.7em;
+		padding-right: 0.5em;
+}
+ .tree-node.tree-node-collapsed > div,
+ .tree-node.tree-node-expanded > div
+ {
+ 	padding-left: 1.7em;
+ 	background-position: left;
+ }
+
+ .tree-node.tree-node-collapsed.tree-node-selected > div,
+ .tree-node.tree-node-expanded.tree-node-selected > div
+ {
+ 	padding-left:1.7em;
+ 	background-position: left;
+ }
+
+ .web .tree-node.tree-node-collapsed > div:hover,
+ .web .tree-node.tree-node-expanded > div:hover
+ {
+ 	padding-left:1.7em;
+ 	background-position: left;
+ }
+
+ .web .tree-node.tree-node-collapsed.tree-node-selected > div:hover,
+ .web .tree-node.tree-node-expanded.tree-node-selected > div:hover
+ {
+  padding-left:1.7em;
+  background-position: left;
+ }
+
+
+ #resultList .title {
+     margin: 1em 0 4px 0;
+
+ }
+
+ #resultList .description {
+     font-size: 0.9em;
+     letter-spacing: normal;
+     margin-bottom:3px;
+
+ }
+
+ #resultList .url cite{
+     margin-top: 3px;
+
+ }
+
+ @media only screen and (max-width: 1600px)
+ {
+    #navigation
+    {
+      width: 350px;
+    }
+    html.left-layout #contentBody,
+    html.left-layout #navigationResizeBar
+    {
+      left:350px;
+    }
+ }
+ 
+ @media only screen and (max-width: 1420px)
+ {
+    #navigation
+    {
+      width: 270px;
+    }
+    html.left-layout #contentBody,
+    html.left-layout #navigationResizeBar    
+    {
+      left:270px;
+    }
+ }
+@media tablet
+{
+
+  .tabs-panel.tabs-panel-active {
+      display: list-item;
+  }
+  ul.tree > li > div {
+  		padding-bottom:0.5em;
+  		padding-right: 0.5em;
+  }
+  iframe.content {
+    padding-top: 0px;
+    }
+    #contentBodyInner {
+        top:60px;
+    }
+    html.left-layout #contentBody,
+    html.left-layout #navigationResizeBar    
+    {
+      left:5px;
+    }
+}
+
+@media mobile
+{
+
+
+  .tabs-panel.tabs-panel-active {
+      display: list-item;
+  }
+  ul.tree > li > div {
+      padding-top:0.5em;
+  		padding-bottom:0.5em;
+  	}
+    #contentBodyInner {
+      top:60px;
+    }
+    ul.tree.inner {
+    padding-left: 1.2em;
+    }
+    iframe.content {
+      padding-top: 0px;
+      }
+    }

@@ -1,0 +1,111 @@
+/*<meta />*/
+
+@import url('tibco.css') ;
+
+div#mc-main-content
+{
+	margin-left: 6%;
+	margin-right: 8%;
+	max-width: 100%;
+	border-radius: 6px;
+	margin-bottom: 26px;
+	margin-top: 4%;
+	padding-bottom: 20px;
+	/*background: #ffffff url('../Images/Logos/Draft.png') repeat;*/
+	mc-hidden: hidden;
+	/*box-shadow: 0 1px 2px 0 rgba(60,64,67,.3), 0 2px 6px 2px rgba(60,64,67,.15)*/
+}
+h1{
+	font-size: 30px;
+}
+p
+{
+	margin-top: 0.75em;
+}
+a[href^="https://"],
+a[href^="http://"]
+{
+	border: 0;
+	border-radius: 0;
+	background-repeat: no-repeat;
+	padding: 0;
+	
+	background-color:transparent;
+	background-image: none;
+}
+a[href^="https://"]:hover,
+a[href^="http://"]:hover
+{
+	color: #064ea6;
+	border: 0;
+	background-color: transparent;
+}
+body
+{
+	font-size: 15px;
+	letter-spacing: 0;
+	line-height: 1.25em;
+}
+
+MadCap|breadcrumbsProxy
+{
+	mc-breadcrumbs-prefix: 'You are here: ';
+	padding: 5px;
+	font-size: 13px;
+	background-color:var(--htmlbg);
+	border-bottom: solid 1px #e3e3e3;
+	box-shadow: 0px 2px 5px #dadada;
+	mc-breadcrumbs-count: 6;
+}
+MadCap|miniTocProxy
+{
+	border-top-color: #d1d1d1;
+	margin-top: 2em;
+	mc-toc-depth: 1;
+	color: #0083cc;
+	font-weight: normal;
+	mc-auto-number-class: miniTOCHead;
+	mc-auto-number-format: var(--miniTocHeading);
+	padding-left: 2%;
+	margin-left: 6%;
+	margin-right: auto;
+	max-width: 100%;
+	padding-bottom: 60px;
+}
+li,
+li p,
+li div
+{
+	margin-top: 0.5em;
+}
+img
+{
+	mc-thumbnail: none;
+}
+h1.homeTitle
+{
+	font-size: 40px;
+	margin-bottom: 18px;
+	color: #2d81e7;
+	letter-spacing: -2px;
+}
+
+div.releaseDate,
+div.prdVersion
+{
+	font-size: 18px;
+	font-style: italic;
+}
+
+div.prdDescription
+{
+	padding-top: 1em;
+	font-size: 18px;
+	line-height: 1.4em;
+}
+
+div.dl
+{
+	padding-left: 0;
+	margin-top: 1em;
+}

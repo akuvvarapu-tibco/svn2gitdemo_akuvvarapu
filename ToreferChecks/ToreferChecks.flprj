@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterPageLayout="/Content/Resources/PageLayouts/main.flpgl" MasterStylesheetOverride="True" Comment="This template contains a minimum number of content and project files required for a new TIBCO Documentation project. It provides side navigation HTML5 and PDF output. You can use this project for importing DITA projects, FrameMaker projects, or even create a new project for your product." xml:lang="en-us" MasterStylesheet="/Content/Resources/Stylesheets/tibco.css">
+</CatapultProject>

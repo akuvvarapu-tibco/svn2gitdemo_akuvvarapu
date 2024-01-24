@@ -1,0 +1,35 @@
+:root
+{
+	/*Note prefix variables*/
+	--noteNote: 'Note: ';
+	--noteTip: 'Tip: ';
+	--noteImportant: 'Important: ';
+	--noteWarning: 'Warning: ';
+	--noteCaution: 'Caution: ';
+	--noteRestriction: 'Restriction: ';
+
+	/*Note prefix variables for icon table in FM converted docs*/
+	--noteNoteFM: 'Note';
+	--noteTipFM: 'Tip';
+	--noteImportantFM: 'Important';
+	--noteWarningFM: 'Warning';
+	--noteCautionFM: 'Caution';
+	--noteRestrictionFM: 'Restriction';
+
+	/*draft prefix variables*/
+	--draftComments: 'Draft comments: '; 
+	--inlineDraftComments: '<draft>: ';
+	--selfNotes: 'Self notes: ';
+	--inlineSelfNotes: '<self-note>: ';
+	
+    /*section prefix variables*/
+    --postreqHead: 'What to do next';
+    --prereqHead: 'Before you begin';
+    --figureTitle: 'GF:{i}Figure {Gn+}: {/i}';
+    --resultHead: 'Result';
+    --stepsHead: 'Procedure';
+	--miniTocHeading: 'Subtopics'; 
+	--relHeading: 'Subtopics'; 
+	/*section prefix variables for FM*/
+	--stepsResetFM: 'S:{ =0}{b}Procedure{/b}';
+}

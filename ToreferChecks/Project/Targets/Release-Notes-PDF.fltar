@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Generates a TIBCO style PDF for your product Release Notes. It follows the TIBCO file nomenclature to generate the output file."
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPageLayout="/Content/Resources/PageLayouts/main.flpgl"
+  ConditionTagExpression="include[Default.PrintOnly], exclude[Default.Mobile or Default.ScreenOnly or Default.Tablet or Default.Web or GlobalConditions.Confidential or GlobalConditions.CTXJavaScript or GlobalConditions.DoNotImport or GlobalConditions.ExcludeFromBuilds]"
+  InjectEmptyPages="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/tibco.css"
+  PatchHeadingLevels="true"
+  OutputFile="TIB_[%=productvar.productID%]_[%=productvar.productVersion%]_relnotes"
+  UseEmptyAltText="true"
+  MasterToc="/Project/TOCs/Release Notes.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    ExpandingTextConversion="expand"
+    PreserveTrackedChanges="false" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    PageLayout="SinglePage"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    Tagged="false" />
+  <DocumentProperties
+    Title="[%=productvar.productName%] [%=productvar.bookName%]" />
+  <Variables>
+    <Variable
+      Name="productvar/bookName">Release Notes</Variable>
+  </Variables>
+</CatapultTarget>

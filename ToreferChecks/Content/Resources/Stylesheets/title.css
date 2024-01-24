@@ -1,0 +1,52 @@
+/*<meta />*/
+
+@import url('tibco.css');
+
+@media print
+{
+	p.BookName
+	{
+		color: #333333;
+		font-size: 32px;
+	}
+
+	p.ProductName
+	{
+		color: #333333;
+		font-size: 36px;
+	}
+
+	p.ProductVersion
+	{
+		color: #565656;
+		font-size: 16px;
+	}
+
+	p.ProductPostGADate
+	{
+		font-size: 16px;
+		color: #565656;
+	}
+}
+
+p.BookName
+{
+	mc-hidden: unhidden;
+}
+
+p.ProductName
+{
+	mc-hidden: unhidden;
+}
+
+p.ProductVersion
+{
+	mc-hidden: unhidden;
+}
+
+p.copy
+{
+	text-align: center;
+	color: white;
+}
+

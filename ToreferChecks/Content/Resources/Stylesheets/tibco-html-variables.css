@@ -1,0 +1,19 @@
+:root
+{
+    /*font-family variables*/
+    --codeFont: 'Source Code Pro', monospace;
+    --bodyFont: 'Source Sans Pro', sans-serif;
+    --printTitleFont: 'Arial', sans-serif;
+	--tableCaptionFont: 'Source Sans Pro', sans-serif;
+	--headingFont: 'Source Sans Pro', sans-serif;
+	--headingFontPDF: 'Source Sans Pro SemiBold', sans-serif;
+
+    /*color variables*/
+    --draftbg: #adff2f;
+    --selfnotebg: #ffff33;
+    --btnhoverbg: #eee;
+    --htmlbg: #fafafa;
+    --htmlfont: #3a3a3a;
+    --headingColor: #010101;
+    --csgColor:#0046da;
+}

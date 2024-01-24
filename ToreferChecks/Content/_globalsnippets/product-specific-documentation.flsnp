@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div>
+            <h2 class="sectiontitle">Product-Specific Documentation</h2>
+            <div class="draft-comment" MadCap:autonum="Draft comments: ">After inserting this snippet, right click the snippet block and select <span class="uicontrol">Convert to text</span>. You can edit the text after converting the snippet to text. If you update the snippet with product-specific information, it will be overridden after you reimport the global project in your project.</div>
+            <p class="draft-comment" MadCap:autonum="Draft comments: ">In the following paragraph, update the "<MadCap:variable name="productvar.productName" /> Product Documentation" version-less link to the product's documentation page on the doc site (for example, https://docs.tibco.com/products/tibco-mdm).</p>
+            <p>The documentation for this product is available on the <a href="http://docs.tibco.com/" target="_blank"><MadCap:variable name="productvar.productName" /> Documentation</a> page. 
+			</p>
+        </div>
+    </body>
+</html>

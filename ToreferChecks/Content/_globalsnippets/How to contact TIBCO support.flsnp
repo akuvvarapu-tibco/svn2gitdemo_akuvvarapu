@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head />
+    <body>
+        <div class="section">
+            <h2 class="sectiontitle">How to Contact Support for <MadCap:variable name="globalvar.bu-name" />&#160;Products</h2>
+            <p>You can contact the Support team in the following ways: 
+	 </p>
+            <ul>
+                <li>To access the Support Knowledge Base and getting personalized content about products you are interested in, visit our <a href="https://support.tibco.com/s/" target="_blank" rel="noopener noreferrer">product Support website</a>.
+	   </li>
+                <li>To create a Support case, you must have a valid maintenance or support contract with a Cloud Software Group entity. You also need a username and password to log in to the <a href="https://support.tibco.com/s/" target="_blank" rel="noopener noreferrer">product Support website</a>. If you do not have a username, you can request one by clicking <span class="uicontrol">Register </span>on the website. 
+	   </li>
+            </ul>
+        </div>
+    </body>
+</html>

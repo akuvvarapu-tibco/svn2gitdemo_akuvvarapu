@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="company"
+    EvaluatedDefinition="Cloud Software Group, Inc.">Cloud Software Group, Inc.</Variable>
+  <Variable
+    Name="bu-name"
+    EvaluatedDefinition="TIBCO">TIBCO</Variable>
+  <Variable
+    Name="bu-name"
+    Comment=""
+    EvaluatedDefinition="ibi">ibi</Variable>
+  <Variable
+    Name="bu-name"
+    Comment=""
+    EvaluatedDefinition="Jaspersoft">Jaspersoft</Variable>
+  <Variable
+    Name="bu-name"
+    Comment=""
+    EvaluatedDefinition="Spotfire">Spotfire</Variable>
+</CatapultVariableSet>

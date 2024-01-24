@@ -1,0 +1,1466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="false"
+  IncludePattern="*.*"
+  LastImport="2023-09-25T13:19:00.3846385+05:30"
+  ConditionTagExpression="include[GlobalConditions.ExcludeFromBuilds or GlobalConditions.HiddenText] exclude[GlobalConditions.DoNotImport] "
+  DeleteStale="true">
+  <Files>
+    <Url
+      Source="file:///C:/svn/flare/flareglobalproject/flareglobalproject.flprj"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/flareglobalproject.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Stylesheets/tibco.css"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Stylesheets/tibco.css" />
+    <Url
+      Source="../../../flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Project/VariableSets/framemakerImport.flvar"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/VariableSets/framemakerImport.flvar" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/framemaker-conversion.htm"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/framemaker-conversion.htm" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/dita-conversion.htm"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/dita-conversion.htm" />
+    <Url
+      Source="../../../flareglobalproject/Content/_globalpages/index.htm"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_globalpages/index.htm" />
+    <Url
+      Source="../../../flareglobalproject/Content/_globalpages/Important Information.htm"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_globalpages/Important Information.htm" />
+    <Url
+      Source="../../../flareglobalproject/Content/_globalpages/contents.htm"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_globalpages/contents.htm" />
+    <Url
+      Source="../../../flareglobalproject/Content/_globalpages/title.htm"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_globalpages/title.htm" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/frameimptparagraph.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/frameimptparagraph.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/frameimptoptions.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/frameimptoptions.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/frameimptoverwritefiles.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/frameimptoverwritefiles.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/frameimptsource.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/frameimptsource.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/directorystructure.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/directorystructure.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/frameimptcharacters.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/frameimptcharacters.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/frameimptnewtopic.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/frameimptnewtopic.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/frameimpaccept.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/frameimpaccept.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/frameimptstyles.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/frameimptstyles.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/ditaimptsource.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/ditaimptsource.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/globalimport.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/globalimport.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/globalimport2.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/globalimport2.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Images/frameimptxrefs.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Images/frameimptxrefs.png" />
+    <Url
+      Source="../../../flareglobalproject/Project/VariableSets/globalvar.flvar"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/VariableSets/globalvar.flvar" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Snippets/variables-notes.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Snippets/variables-notes.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Snippets/topics-notes.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Snippets/topics-notes.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Snippets/toc-notes.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Snippets/toc-notes.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Snippets/targets-notes.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Snippets/targets-notes.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Snippets/snippets-notes.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Snippets/snippets-notes.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Snippets/multiple-books-notes.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Snippets/multiple-books-notes.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Snippets/masterpages-notes.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Snippets/masterpages-notes.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Snippets/images-notes.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Snippets/images-notes.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Snippets/conditions-notes.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Snippets/conditions-notes.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp" />
+    <Url
+      Source="../../../flareglobalproject/Content/_writer-notes/Snippets/fonts-notes.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/_writer-notes/Snippets/fonts-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/dita-conversion.htm"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/dita-conversion.htm" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/framemaker-conversion.htm"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/framemaker-conversion.htm" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/tibco.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/Draft.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/Draft.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tibco-logo-o.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-o.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/TIBCO-Logo-Whiteout.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/TIBCO-Logo-Whiteout.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tibco-o-logo.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-o-logo.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/PageLayouts/index.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/PageLayouts/index.flpgl" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/PageLayouts/main.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/PageLayouts/main.flpgl" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/PageLayouts/title.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/PageLayouts/title.flpgl" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/TableStyles/Table.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/TableStyles/Table.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/VariableSets/globalvar.flvar"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/VariableSets/globalvar.flvar" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/Important.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/Important.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/note.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/note.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/Restriction.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/Restriction.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tibco_logo.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco_logo.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tip.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tip.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/warning.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/warning.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/skin_white.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/skin_white.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/TableStyles/footer.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/TableStyles/footer.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/TableStyles/IconTable.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/TableStyles/IconTable.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalpages/contents.htm"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalpages/contents.htm" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalpages/index.htm"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalpages/index.htm" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalpages/title.htm"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalpages/title.htm" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/How to access TIBCO documentation.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/How to access TIBCO documentation.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/How to contact TIBCO support.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/How to contact TIBCO support.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Imports/dita-import.flimpdita"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Imports/dita-import.flimpdita" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Imports/framemakerImport.flimpfm"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Imports/framemakerImport.flimpfm" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Skins/HTML5Combo.flskn"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Skins/HTML5Combo.flskn" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Skins/Toolbar_Skin.flskn"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Skins/Toolbar_Skin.flskn" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/main-content.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/main-content.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/How to join TIBCO Community.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/How to join TIBCO Community.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/ConditionTagSets/Default.flcts" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/pl-icon-info.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-info.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/pl-icon-restrictions.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-restrictions.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/pl-icon-success.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-success.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/pl-icon-warning-triangle.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-warning-triangle.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/google-analytics.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/google-analytics.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/hotjar.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/hotjar.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/title.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/title.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/Copyright.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/Copyright.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/Third-party-note.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/Third-party-note.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/product-backdrop.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/product-backdrop.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/MasterPages/home-page.flmsp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/MasterPages/home-page.flmsp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/home-page.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/home-page.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/favicon_0.ico"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/favicon_0.ico" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/favicon_0.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/favicon_0.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/PageLayouts/wide-landscape.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/PageLayouts/wide-landscape.flpgl" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/tibco_cloud.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco_cloud.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Skins/HTML5_cloud.flskn"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Skins/HTML5_cloud.flskn" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Skins/Toolbar_cloud.flskn"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Skins/Toolbar_cloud.flskn" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/urlCapture.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/urlCapture.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/skin_cloud.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/skin_cloud.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/TableStyles/NoHeading.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/TableStyles/NoHeading.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/TableStyles/NoTitle.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/TableStyles/NoTitle.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/TableStyles/NoTitleForSidehead.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/TableStyles/NoTitleForSidehead.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Advanced/English (United States) Dictionary.mcdic"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Advanced/English (United States) Dictionary.mcdic" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Advanced/LanguageSkin.fllng"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Advanced/LanguageSkin.fllng" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/pl-icon-warning-circle.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-warning-circle.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/external-links.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/external-links.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/ic_new_tab_window.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/ic_new_tab_window.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/csh-redirect.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/csh-redirect.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/TableStyles/Table-indent.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/TableStyles/Table-indent.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/how-to-access-third-party-docs.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/how-to-access-third-party-docs.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/other-tibco-product-docs.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/other-tibco-product-docs.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/product-specific-documentation.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/product-specific-documentation.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_down_black_24dp.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_down_black_24dp.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp_expander.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp_expander.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/top-icon-hover.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/top-icon-hover.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/top-icon.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/top-icon.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/MasterPages/chm-templatepage.flmsp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/MasterPages/chm-templatepage.flmsp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/MasterPages/TCI-MasterPage.flmsp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/MasterPages/TCI-MasterPage.flmsp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/scroll-to-top.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/scroll-to-top.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/tibco-chm.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco-chm.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/tibco-html-variables.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco-html-variables.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/tibco-variables.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco-variables.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Skins/CHM.flskn"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Skins/CHM.flskn" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/black_case_management2.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_case_management2.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/black_document_and_digital_asset2.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_document_and_digital_asset2.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/black_innovation.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_innovation.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/black_ondemand_training.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_ondemand_training.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/homepage-header.jpeg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/homepage-header.jpeg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/icon-download.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/icon-download.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/ondemand_video_lightblack.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/ondemand_video_lightblack.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/pdf-icon-lightblack.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/pdf-icon-lightblack.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/txt-icon-lightblack.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/txt-icon-lightblack.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/sentiment_dissatisfied_red.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/sentiment_dissatisfied_red.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/sentiment_satisfied_green.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/sentiment_satisfied_green.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/thumb_down.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_down.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/thumb_down_hover.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_down_hover.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/thumb_up.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_up.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/thumb_up_hover.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_up_hover.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/feedback.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/feedback.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/feedback.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/feedback.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Global-project-release-notes.pdf"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Global-project-release-notes.pdf" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Global-project-version.htm"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Global-project-version.htm" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/arrow-back-white.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/arrow-back-white.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/document.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/document.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tibco-cloud-logo.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-cloud-logo.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/landing-page.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/landing-page.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-black.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-black.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-black.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-black.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-white.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-white.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-white.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-white.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tibco-logo-black.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-black.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/PageLayouts/title-ibi.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/PageLayouts/title-ibi.flpgl" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/google-analytics-gtm.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/google-analytics-gtm.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/caution-for-code-block.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/caution-for-code-block.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Skins/HTML5_ibi.flskn"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Skins/HTML5_ibi.flskn" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/cloud-logo-w.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/cloud-logo-w.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/cloud-software-group-logo-color-rgb.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/cloud-software-group-logo-color-rgb.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/cloud-software-group-logo-one-color-reverse.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/cloud-software-group-logo-one-color-reverse.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tibco-logo-color-rgb.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-color-rgb.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tibco-logo-color-rgb.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-color-rgb.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/title-bg.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/title-bg.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/PageLayouts/title-spotfire.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/PageLayouts/title-spotfire.flpgl" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/vertical-cloud-software-group-logo-color-rgb.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/vertical-cloud-software-group-logo-color-rgb.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/vertical-cloud-software-group-logo-color-rgb.svg"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/vertical-cloud-software-group-logo-color-rgb.svg" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/vertical-cloud-software-group-logo-one-color-reverse.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/vertical-cloud-software-group-logo-one-color-reverse.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/jaspersoft-color-rgb.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/jaspersoft-color-rgb.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/PageLayouts/title-jaspersoft.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/PageLayouts/title-jaspersoft.flpgl" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb-40.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb-40.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Skins/HTML5_spotfire.flskn"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Skins/HTML5_spotfire.flskn" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/TableStyles/footer.css"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/TableStyles/footer.css" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/TableStyles/IconTable.css"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/TableStyles/IconTable.css" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/TableStyles/Table.css"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/TableStyles/Table.css" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot" />
+    <Url
+      Source="../../../flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts" />
+    <Url
+      Source="../../../flareglobalproject/Project/ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/ConditionTagSets/Default.flcts" />
+    <Url
+      Source="../../../flareglobalproject/Project/ConditionTagSets/framemakerImport.flcts"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/ConditionTagSets/framemakerImport.flcts" />
+    <Url
+      Source="../../../flareglobalproject/Project/Imports/dita-import.flimpdita"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/Imports/dita-import.flimpdita" />
+    <Url
+      Source="../../../flareglobalproject/Project/Imports/framemakerImport.flimpfm"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/Imports/framemakerImport.flimpfm" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/PageLayouts/title.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/PageLayouts/title.flpgl" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/PageLayouts/index.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/PageLayouts/index.flpgl" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/PageLayouts/main.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/PageLayouts/main.flpgl" />
+    <Url
+      Source="../../../flareglobalproject/Project/Skins/Default.flskn"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/Skins/Default.flskn" />
+    <Url
+      Source="../../../flareglobalproject/Project/Skins/HTML5 - Top Navigation.flskn"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/Skins/HTML5 - Top Navigation.flskn" />
+    <Url
+      Source="../../../flareglobalproject/Project/Skins/HTML5Combo.flskn"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/Skins/HTML5Combo.flskn" />
+    <Url
+      Source="../../../flareglobalproject/Project/VariableSets/globalvar.flvar"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/VariableSets/globalvar.flvar" />
+    <Url
+      Source="../../../flareglobalproject/Project/VariableSets/productvar.flvar"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Project/VariableSets/productvar.flvar" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Images/tip.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Images/tip.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Images/tibco_logo.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Images/tibco_logo.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Images/tibco-logo-o.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Images/tibco-logo-o.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Images/warning.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Images/warning.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Images/note.png"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Images/note.png" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2" />
+    <Url
+      Source="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2"
+      AbsoluteSource="file:///C:/svn/flare/TIBCO Templates/Projects/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptparagraph.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptparagraph.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptsource.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptsource.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptstyles.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptstyles.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptxrefs.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptxrefs.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptoverwritefiles.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptoverwritefiles.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptoptions.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptoptions.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptnewtopic.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptnewtopic.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/directorystructure.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/directorystructure.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/ditaimptsource.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/ditaimptsource.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimpaccept.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimpaccept.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptcharacters.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/frameimptcharacters.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/globalimport.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/globalimport.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Images/globalimport2.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Images/globalimport2.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/conditions-notes.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/conditions-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/topics-notes.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/topics-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/variables-notes.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/variables-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Project/ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Project/ConditionTagSets/Default.flcts" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Project/Skins/HTML5Combo.flskn"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Project/Skins/HTML5Combo.flskn" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/toc-notes.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/toc-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/targets-notes.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/targets-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/fonts-notes.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/fonts-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/images-notes.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/images-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/masterpages-notes.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/masterpages-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/multiple-books-notes.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/multiple-books-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/snippets-notes.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_writer-notes/Snippets/snippets-notes.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Images/note.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Images/note.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/PageLayouts/title.flpgl"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/PageLayouts/title.flpgl" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Stylesheets/tibco.css"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Stylesheets/tibco.css" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/PageLayouts/main.flpgl"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/PageLayouts/main.flpgl" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/PageLayouts/index.flpgl"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/PageLayouts/index.flpgl" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Images/tibco-logo-o.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Images/tibco-logo-o.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Images/tibco_logo.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Images/tibco_logo.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Images/tip.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Images/tip.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Images/warning.png"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Images/warning.png" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_globalpages/Important Information.htm"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_globalpages/Important Information.htm" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_globalpages/index.htm"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_globalpages/index.htm" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_globalpages/title.htm"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_globalpages/title.htm" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/_globalpages/contents.htm"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/_globalpages/contents.htm" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/TableStyles/Table.css"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/TableStyles/Table.css" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/TableStyles/footer.css"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/TableStyles/footer.css" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Content/Resources/TableStyles/IconTable.css"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Content/Resources/TableStyles/IconTable.css" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Project/VariableSets/globalvar.flvar"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Project/VariableSets/globalvar.flvar" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Project/Imports/dita-import.flimpdita"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Project/Imports/dita-import.flimpdita" />
+    <Url
+      Source="../../../../../../../FlrTemp/flareglobalproject/Project/Imports/framemakerImport.flimpfm"
+      AbsoluteSource="file:///C:/FlrTemp/flareglobalproject/Project/Imports/framemakerImport.flimpfm" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_template-instructions-DITA-to-Flare.html"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_template-instructions-DITA-to-Flare.html" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_template-instructions-FrameMaker-to-Flare.html"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_template-instructions-FrameMaker-to-Flare.html" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/Draft.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/Draft.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/Important.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/Important.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/note.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/note.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/Restriction.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/Restriction.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tibco-logo-o.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-o.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/TIBCO-Logo-Whiteout.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/TIBCO-Logo-Whiteout.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tibco-o-logo.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-o-logo.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tibco_logo.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco_logo.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/tip.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/tip.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Images/Logos/warning.png"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Images/Logos/warning.png" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/PageLayouts/index.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/PageLayouts/index.flpgl" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/PageLayouts/main.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/PageLayouts/main.flpgl" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/PageLayouts/title.flpgl"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/PageLayouts/title.flpgl" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/TableStyles/footer.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/TableStyles/footer.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/TableStyles/IconTable.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/TableStyles/IconTable.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/TableStyles/Table.css"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/TableStyles/Table.css" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalpages/contents.htm"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalpages/contents.htm" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalpages/index.htm"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalpages/index.htm" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalpages/title.htm"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalpages/title.htm" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/How to access TIBCO documentation.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/How to access TIBCO documentation.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/How to contact TIBCO support.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/How to contact TIBCO support.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/How to join TIBCO Community.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/How to join TIBCO Community.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/ConditionTagSets/Default.flcts" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Imports/dita-import.flimpdita"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Imports/dita-import.flimpdita" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Imports/framemakerImport.flimpfm"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Imports/framemakerImport.flimpfm" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Skins/HTML5Combo.flskn"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Skins/HTML5Combo.flskn" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/Skins/Toolbar_Skin.flskn"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/Skins/Toolbar_Skin.flskn" />
+    <Url
+      Source="../../../../../flareglobalproject/Project/VariableSets/globalvar.flvar"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Project/VariableSets/globalvar.flvar" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/skin-tibco.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/skin-tibco.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/Resources/Scripts/urlCapture.js"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/Resources/Scripts/urlCapture.js" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/connectors-install-prerequisites.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/connectors-install-prerequisites.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/connectors-install-procedure.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/connectors-install-procedure.flsnp" />
+    <Url
+      Source="../../../../../flareglobalproject/Content/_globalsnippets/connectors-uninstall-procedure.flsnp"
+      AbsoluteSource="file:///C:/svn/flare/flareglobalproject/Content/_globalsnippets/connectors-uninstall-procedure.flsnp" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Stylesheets/tibco.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_globalsnippets/ImportantInfoSection1.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_globalsnippets/ImportantInfoSection2.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../VariableSets/framemakerImport.flvar"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/framemaker-conversion.htm"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/dita-conversion.htm"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_globalpages/index.htm"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_globalpages/Important Information.htm"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_globalpages/contents.htm"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_globalpages/title.htm"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/frameimptparagraph.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/frameimptoptions.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/frameimptoverwritefiles.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/frameimptsource.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/directorystructure.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/frameimptcharacters.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/frameimptnewtopic.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/frameimpaccept.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/frameimptstyles.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/ditaimptsource.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/globalimport.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/globalimport2.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Images/frameimptxrefs.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../VariableSets/globalvar.flvar"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Snippets/variables-notes.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Snippets/topics-notes.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Snippets/toc-notes.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Snippets/targets-notes.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Snippets/snippets-notes.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Snippets/multiple-books-notes.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Snippets/masterpages-notes.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Snippets/images-notes.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Snippets/conditions-notes.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_globalsnippets/fontscopyright.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_writer-notes/Snippets/fonts-notes.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/Draft.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/tibco-logo-o.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/TIBCO-Logo-Whiteout.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/tibco-o-logo.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/MasterPages/MasterPage.flmsp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/index.flpgl"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/main.flpgl"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/title.flpgl"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/TableStyles/Table.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/Important.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/note.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/Restriction.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/tibco_logo.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/tip.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/warning.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/skin_white.css"
+      TimeStamp="05-09-2020 22:38:07" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/source-code-pro.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/source-sans-pro.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/TableStyles/footer.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/TableStyles/IconTable.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_globalsnippets/How to access TIBCO documentation.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_globalsnippets/How to contact TIBCO support.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="dita-import.flimpdita"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="framemakerImport.flimpfm"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../Skins/HTML5Combo.flskn"
+      TimeStamp="05-09-2020 04:23:30" />
+    <Url
+      Source="../Skins/Toolbar_Skin.flskn"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Scripts/main-content.js"
+      TimeStamp="05-09-2020 03:31:23" />
+    <Url
+      Source="../../Content/_globalsnippets/How to join TIBCO Community.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../ConditionTagSets/Default.flcts"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../ConditionTagSets/GlobalConditions.flcts"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/pl-icon-info.png"
+      TimeStamp="05-12-2020 17:37:25" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/pl-icon-restrictions.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/pl-icon-success.png"
+      TimeStamp="05-12-2020 17:37:25" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/pl-icon-warning-triangle.png"
+      TimeStamp="05-12-2020 17:37:25" />
+    <Url
+      Source="../../Content/Resources/Scripts/google-analytics.js"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Scripts/hotjar.js"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/title.css"
+      TimeStamp="06-11-2020 05:34:37" />
+    <Url
+      Source="../../Content/_globalsnippets/Copyright.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/_globalsnippets/Third-party-note.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/product-backdrop.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/MasterPages/home-page.flmsp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/home-page.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/favicon_0.ico"
+      TimeStamp="08-02-2020 19:09:28" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/favicon_0.png"
+      TimeStamp="08-10-2020 01:27:51" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/wide-landscape.flpgl"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/tibco_cloud.css"
+      TimeStamp="10-02-2020 20:39:18" />
+    <Url
+      Source="../Skins/HTML5_cloud.flskn"
+      TimeStamp="10-02-2020 20:46:59" />
+    <Url
+      Source="../Skins/Toolbar_cloud.flskn"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Scripts/urlCapture.js"
+      TimeStamp="09-08-2020 15:35:42" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/skin_cloud.css"
+      TimeStamp="10-05-2020 17:35:18" />
+    <Url
+      Source="../../Content/Resources/TableStyles/NoHeading.css"
+      TimeStamp="01-05-2021 12:45:05" />
+    <Url
+      Source="../../Content/Resources/TableStyles/NoTitle.css"
+      TimeStamp="01-05-2021 12:45:05" />
+    <Url
+      Source="../../Content/Resources/TableStyles/NoTitleForSidehead.css"
+      TimeStamp="01-05-2021 12:45:05" />
+    <Url
+      Source="../Advanced/English (United States) Dictionary.mcdic"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../Advanced/LanguageSkin.fllng"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/pl-icon-warning-circle.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Scripts/external-links.js"
+      TimeStamp="04-02-2021 14:47:49" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/ic_new_tab_window.png"
+      TimeStamp="06-02-2021 13:28:33" />
+    <Url
+      Source="../../Content/Resources/Scripts/csh-redirect.js"
+      TimeStamp="06-08-2021 18:59:17" />
+    <Url
+      Source="../../Content/Resources/TableStyles/Table-indent.css"
+      TimeStamp="06-02-2021 13:28:33" />
+    <Url
+      Source="../../Content/_globalsnippets/how-to-access-third-party-docs.flsnp"
+      TimeStamp="06-02-2021 13:28:33" />
+    <Url
+      Source="../../Content/_globalsnippets/other-tibco-product-docs.flsnp"
+      TimeStamp="06-02-2021 13:28:33" />
+    <Url
+      Source="../../Content/_globalsnippets/product-specific-documentation.flsnp"
+      TimeStamp="06-02-2021 13:28:33" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/outline_keyboard_arrow_down_black_24dp.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp_expander.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/top-icon-hover.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/top-icon.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/MasterPages/chm-templatepage.flmsp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/MasterPages/TCI-MasterPage.flmsp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Scripts/scroll-to-top.js"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/tibco-chm.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/tibco-html-variables.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/tibco-variables.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../Skins/CHM.flskn"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/black_case_management2.png"
+      TimeStamp="12-10-2021 08:26:37" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/black_document_and_digital_asset2.png"
+      TimeStamp="12-10-2021 08:37:28" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/black_innovation.png"
+      TimeStamp="12-10-2021 13:08:16" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/black_ondemand_training.png"
+      TimeStamp="12-10-2021 14:00:12" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/homepage-header.jpeg"
+      TimeStamp="12-10-2021 22:35:50" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/icon-download.svg"
+      TimeStamp="10-10-2021 16:32:27" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/ondemand_video_lightblack.svg"
+      TimeStamp="12-10-2021 17:28:49" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/pdf-icon-lightblack.svg"
+      TimeStamp="12-10-2021 17:27:51" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/txt-icon-lightblack.svg"
+      TimeStamp="12-10-2021 17:26:49" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/sentiment_dissatisfied_red.svg"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/sentiment_satisfied_green.svg"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/thumb_down.svg"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/thumb_down_hover.svg"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/thumb_up.svg"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/thumb_up_hover.svg"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Scripts/feedback.js"
+      TimeStamp="04-06-2022 12:43:25" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/feedback.css"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Global-project-release-notes.pdf"
+      TimeStamp="08-03-2022 10:56:37" />
+    <Url
+      Source="../../Content/Resources/Global-project-version.htm"
+      TimeStamp="08-03-2022 10:52:08" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/arrow-back-white.svg"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/document.svg"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/tibco-cloud-logo.png"
+      TimeStamp="07-07-2022 09:49:51" />
+    <Url
+      Source="../../Content/Resources/Scripts/landing-page.js"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/ibi-logo-black.png"
+      TimeStamp="01-12-2022 23:07:24" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/ibi-logo-black.svg"
+      TimeStamp="01-12-2022 15:33:55" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/ibi-logo-white.png"
+      TimeStamp="01-12-2022 16:01:47" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/ibi-logo-white.svg"
+      TimeStamp="01-12-2022 15:50:44" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/tibco-logo-black.png"
+      TimeStamp="06-12-2021 16:35:50" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/title-ibi.flpgl"
+      TimeStamp="01-12-2022 16:05:12" />
+    <Url
+      Source="../../Content/Resources/Scripts/google-analytics-gtm.js"
+      TimeStamp="02-11-2022 15:28:42" />
+    <Url
+      Source="../../Content/_globalsnippets/caution-for-code-block.flsnp"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../Skins/HTML5_ibi.flskn"
+      TimeStamp="01-12-2022 23:16:59" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/cloud-logo-w.svg"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/cloud-software-group-logo-color-rgb.png"
+      TimeStamp="12-07-2023 15:31:43" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/cloud-software-group-logo-one-color-reverse.png"
+      TimeStamp="06-07-2023 14:55:25" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.png"
+      TimeStamp="06-07-2023 13:16:06" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.svg"
+      TimeStamp="06-07-2023 13:15:54" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/spotfire-full-color-rgb.png"
+      TimeStamp="06-07-2023 13:03:46" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/spotfire-full-color-rgb.svg"
+      TimeStamp="06-07-2023 13:04:08" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/tibco-logo-color-rgb.png"
+      TimeStamp="04-07-2023 15:58:47" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/tibco-logo-color-rgb.svg"
+      TimeStamp="06-07-2023 13:20:17" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/title-bg.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/title-spotfire.flpgl"
+      TimeStamp="01-08-2023 14:24:18" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/vertical-cloud-software-group-logo-color-rgb.png"
+      TimeStamp="06-07-2023 14:54:14" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/vertical-cloud-software-group-logo-color-rgb.svg"
+      TimeStamp="06-07-2023 14:54:10" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/vertical-cloud-software-group-logo-one-color-reverse.png"
+      TimeStamp="01-01-0001 00:00:00" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/jaspersoft-color-rgb.png"
+      TimeStamp="08-10-2023 13:03:28" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/title-jaspersoft.flpgl"
+      TimeStamp="08-10-2023 13:13:14" />
+    <Url
+      Source="../../Content/Resources/Images/Logos/spotfire-full-color-rgb-40.png"
+      TimeStamp="20-09-2023 15:08:13" />
+    <Url
+      Source="../Skins/HTML5_spotfire.flskn"
+      TimeStamp="20-09-2023 15:27:17" />
+  </GeneratedFiles>
+</CatapultProjectImport>
