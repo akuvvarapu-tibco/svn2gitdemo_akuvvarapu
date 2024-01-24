@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalImportedFilesCache
+  SavedSource="file:///C:/github/svn2gitdemo_akuvvarapu/ToreferChecks/Output/msul/Temporary/GlobalImportedFilesSet v.1.xml">
+  <ImportedMap>
+    <Map
+      Local="Content/Resources/Stylesheets/tibco.css"
+      Remote="../flareglobalproject/Content/Resources/Stylesheets/tibco.css" />
+    <Map
+      Local="Content/_globalsnippets/ImportantInfoSection1.flsnp"
+      Remote="../flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp" />
+    <Map
+      Local="Content/_globalsnippets/ImportantInfoSection2.flsnp"
+      Remote="../flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp" />
+    <Map
+      Local="Project/VariableSets/framemakerImport.flvar"
+      Remote="../flareglobalproject/Project/VariableSets/framemakerImport.flvar" />
+    <Map
+      Local="Content/_writer-notes/framemaker-conversion.htm"
+      Remote="../flareglobalproject/Content/_writer-notes/framemaker-conversion.htm" />
+    <Map
+      Local="Content/_writer-notes/dita-conversion.htm"
+      Remote="../flareglobalproject/Content/_writer-notes/dita-conversion.htm" />
+    <Map
+      Local="Content/_globalpages/index.htm"
+      Remote="../flareglobalproject/Content/_globalpages/index.htm" />
+    <Map
+      Local="Content/_globalpages/Important Information.htm"
+      Remote="../flareglobalproject/Content/_globalpages/Important Information.htm" />
+    <Map
+      Local="Content/_globalpages/contents.htm"
+      Remote="../flareglobalproject/Content/_globalpages/contents.htm" />
+    <Map
+      Local="Content/_globalpages/title.htm"
+      Remote="../flareglobalproject/Content/_globalpages/title.htm" />
+    <Map
+      Local="Content/_writer-notes/Images/frameimptparagraph.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/frameimptparagraph.png" />
+    <Map
+      Local="Content/_writer-notes/Images/frameimptoptions.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/frameimptoptions.png" />
+    <Map
+      Local="Content/_writer-notes/Images/frameimptoverwritefiles.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/frameimptoverwritefiles.png" />
+    <Map
+      Local="Content/_writer-notes/Images/frameimptsource.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/frameimptsource.png" />
+    <Map
+      Local="Content/_writer-notes/Images/directorystructure.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/directorystructure.png" />
+    <Map
+      Local="Content/_writer-notes/Images/frameimptcharacters.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/frameimptcharacters.png" />
+    <Map
+      Local="Content/_writer-notes/Images/frameimptnewtopic.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/frameimptnewtopic.png" />
+    <Map
+      Local="Content/_writer-notes/Images/frameimpaccept.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/frameimpaccept.png" />
+    <Map
+      Local="Content/_writer-notes/Images/frameimptstyles.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/frameimptstyles.png" />
+    <Map
+      Local="Content/_writer-notes/Images/ditaimptsource.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/ditaimptsource.png" />
+    <Map
+      Local="Content/_writer-notes/Images/globalimport.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/globalimport.png" />
+    <Map
+      Local="Content/_writer-notes/Images/globalimport2.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/globalimport2.png" />
+    <Map
+      Local="Content/_writer-notes/Images/frameimptxrefs.png"
+      Remote="../flareglobalproject/Content/_writer-notes/Images/frameimptxrefs.png" />
+    <Map
+      Local="Project/VariableSets/globalvar.flvar"
+      Remote="../flareglobalproject/Project/VariableSets/globalvar.flvar" />
+    <Map
+      Local="Content/_writer-notes/Snippets/variables-notes.flsnp"
+      Remote="../flareglobalproject/Content/_writer-notes/Snippets/variables-notes.flsnp" />
+    <Map
+      Local="Content/_writer-notes/Snippets/topics-notes.flsnp"
+      Remote="../flareglobalproject/Content/_writer-notes/Snippets/topics-notes.flsnp" />
+    <Map
+      Local="Content/_writer-notes/Snippets/toc-notes.flsnp"
+      Remote="../flareglobalproject/Content/_writer-notes/Snippets/toc-notes.flsnp" />
+    <Map
+      Local="Content/_writer-notes/Snippets/targets-notes.flsnp"
+      Remote="../flareglobalproject/Content/_writer-notes/Snippets/targets-notes.flsnp" />
+    <Map
+      Local="Content/_writer-notes/Snippets/snippets-notes.flsnp"
+      Remote="../flareglobalproject/Content/_writer-notes/Snippets/snippets-notes.flsnp" />
+    <Map
+      Local="Content/_writer-notes/Snippets/multiple-books-notes.flsnp"
+      Remote="../flareglobalproject/Content/_writer-notes/Snippets/multiple-books-notes.flsnp" />
+    <Map
+      Local="Content/_writer-notes/Snippets/masterpages-notes.flsnp"
+      Remote="../flareglobalproject/Content/_writer-notes/Snippets/masterpages-notes.flsnp" />
+    <Map
+      Local="Content/_writer-notes/Snippets/images-notes.flsnp"
+      Remote="../flareglobalproject/Content/_writer-notes/Snippets/images-notes.flsnp" />
+    <Map
+      Local="Content/_writer-notes/Snippets/conditions-notes.flsnp"
+      Remote="../flareglobalproject/Content/_writer-notes/Snippets/conditions-notes.flsnp" />
+    <Map
+      Local="Content/_globalsnippets/fontscopyright.flsnp"
+      Remote="../flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp" />
+    <Map
+      Local="Content/_writer-notes/Snippets/fonts-notes.flsnp"
+      Remote="../flareglobalproject/Content/_writer-notes/Snippets/fonts-notes.flsnp" />
+    <Map
+      Local="Content/Resources/Images/Logos/Draft.png"
+      Remote="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/dita-conversion.htm" />
+    <Map
+      Local="Content/Resources/Images/Logos/tibco-logo-o.png"
+      Remote="../../../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/framemaker-conversion.htm" />
+    <Map
+      Local="Content/Resources/Images/Logos/TIBCO-Logo-Whiteout.png"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/tibco.css" />
+    <Map
+      Local="Content/Resources/Images/Logos/tibco-o-logo.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/Draft.png" />
+    <Map
+      Local="Content/Resources/MasterPages/MasterPage.flmsp"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/tibco-logo-o.png" />
+    <Map
+      Local="Content/Resources/PageLayouts/index.flpgl"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/TIBCO-Logo-Whiteout.png" />
+    <Map
+      Local="Content/Resources/PageLayouts/main.flpgl"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/tibco-o-logo.png" />
+    <Map
+      Local="Content/Resources/PageLayouts/title.flpgl"
+      Remote="../../../flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp" />
+    <Map
+      Local="Content/Resources/TableStyles/Table.css"
+      Remote="../../../flareglobalproject/Content/Resources/PageLayouts/index.flpgl" />
+    <Map
+      Local="Content/Resources/Images/Logos/Important.png"
+      Remote="../../../flareglobalproject/Content/Resources/PageLayouts/main.flpgl" />
+    <Map
+      Local="Content/Resources/Images/Logos/note.png"
+      Remote="../../../flareglobalproject/Content/Resources/PageLayouts/title.flpgl" />
+    <Map
+      Local="Content/Resources/Images/Logos/Restriction.png"
+      Remote="../../../flareglobalproject/Content/Resources/TableStyles/Table.css" />
+    <Map
+      Local="Content/Resources/Images/Logos/tibco_logo.png"
+      Remote="../../../flareglobalproject/Project/VariableSets/globalvar.flvar" />
+    <Map
+      Local="Content/Resources/Images/Logos/tip.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/Important.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/warning.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/note.png" />
+    <Map
+      Local="Content/Resources/Stylesheets/skin_white.css"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/Restriction.png" />
+    <Map
+      Local="Content/Resources/Stylesheets/source-code-pro.css"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/tibco_logo.png" />
+    <Map
+      Local="Content/Resources/Stylesheets/source-sans-pro.css"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/tip.png" />
+    <Map
+      Local="Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/warning.png" />
+    <Map
+      Local="Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/skin_white.css" />
+    <Map
+      Local="Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css" />
+    <Map
+      Local="Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css" />
+    <Map
+      Local="Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot" />
+    <Map
+      Local="Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff" />
+    <Map
+      Local="Content/Resources/TableStyles/footer.css"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2" />
+    <Map
+      Local="Content/Resources/TableStyles/IconTable.css"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf" />
+    <Map
+      Local="Content/_globalsnippets/How to access TIBCO documentation.flsnp"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff" />
+    <Map
+      Local="Content/_globalsnippets/How to contact TIBCO support.flsnp"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2" />
+    <Map
+      Local="Project/Imports/dita-import.flimpdita"
+      Remote="../../../flareglobalproject/Content/Resources/TableStyles/footer.css" />
+    <Map
+      Local="Project/Imports/framemakerImport.flimpfm"
+      Remote="../../../flareglobalproject/Content/Resources/TableStyles/IconTable.css" />
+    <Map
+      Local="Project/Skins/HTML5Combo.flskn"
+      Remote="../../../flareglobalproject/Content/_globalpages/contents.htm" />
+    <Map
+      Local="Project/Skins/Toolbar_Skin.flskn"
+      Remote="../../../flareglobalproject/Content/_globalpages/index.htm" />
+    <Map
+      Local="Content/Resources/Scripts/main-content.js"
+      Remote="../../../flareglobalproject/Content/_globalpages/title.htm" />
+    <Map
+      Local="Content/_globalsnippets/How to join TIBCO Community.flsnp"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp" />
+    <Map
+      Local="Project/ConditionTagSets/Default.flcts"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/How to access TIBCO documentation.flsnp" />
+    <Map
+      Local="Project/ConditionTagSets/GlobalConditions.flcts"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/How to contact TIBCO support.flsnp" />
+    <Map
+      Local="Content/Resources/Images/Logos/pl-icon-info.png"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp" />
+    <Map
+      Local="Content/Resources/Images/Logos/pl-icon-restrictions.png"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp" />
+    <Map
+      Local="Content/Resources/Images/Logos/pl-icon-success.png"
+      Remote="../../../flareglobalproject/Project/Imports/dita-import.flimpdita" />
+    <Map
+      Local="Content/Resources/Images/Logos/pl-icon-warning-triangle.png"
+      Remote="../../../flareglobalproject/Project/Imports/framemakerImport.flimpfm" />
+    <Map
+      Local="Content/Resources/Scripts/google-analytics.js"
+      Remote="../../../flareglobalproject/Project/Skins/HTML5Combo.flskn" />
+    <Map
+      Local="Content/Resources/Scripts/hotjar.js"
+      Remote="../../../flareglobalproject/Project/Skins/Toolbar_Skin.flskn" />
+    <Map
+      Local="Content/Resources/Stylesheets/title.css"
+      Remote="../../../flareglobalproject/Content/Resources/Scripts/main-content.js" />
+    <Map
+      Local="Content/_globalsnippets/Copyright.flsnp"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/How to join TIBCO Community.flsnp" />
+    <Map
+      Local="Content/_globalsnippets/Third-party-note.flsnp"
+      Remote="../../../flareglobalproject/Project/ConditionTagSets/Default.flcts" />
+    <Map
+      Local="Content/Resources/Images/Logos/product-backdrop.png"
+      Remote="../../../flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts" />
+    <Map
+      Local="Content/Resources/MasterPages/home-page.flmsp"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/pl-icon-info.png" />
+    <Map
+      Local="Content/Resources/Stylesheets/home-page.css"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/pl-icon-restrictions.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/favicon_0.ico"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/pl-icon-success.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/favicon_0.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/pl-icon-warning-triangle.png" />
+    <Map
+      Local="Content/Resources/PageLayouts/wide-landscape.flpgl"
+      Remote="../../../flareglobalproject/Content/Resources/Scripts/google-analytics.js" />
+    <Map
+      Local="Content/Resources/Stylesheets/tibco_cloud.css"
+      Remote="../../../flareglobalproject/Content/Resources/Scripts/hotjar.js" />
+    <Map
+      Local="Project/Skins/HTML5_cloud.flskn"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/title.css" />
+    <Map
+      Local="Project/Skins/Toolbar_cloud.flskn"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/Copyright.flsnp" />
+    <Map
+      Local="Content/Resources/Scripts/urlCapture.js"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/Third-party-note.flsnp" />
+    <Map
+      Local="Content/Resources/Stylesheets/skin_cloud.css"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/product-backdrop.png" />
+    <Map
+      Local="Content/Resources/TableStyles/NoHeading.css"
+      Remote="../../../flareglobalproject/Content/Resources/MasterPages/home-page.flmsp" />
+    <Map
+      Local="Content/Resources/TableStyles/NoTitle.css"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/home-page.css" />
+    <Map
+      Local="Content/Resources/TableStyles/NoTitleForSidehead.css"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/favicon_0.ico" />
+    <Map
+      Local="Project/Advanced/English (United States) Dictionary.mcdic"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/favicon_0.png" />
+    <Map
+      Local="Project/Advanced/LanguageSkin.fllng"
+      Remote="../../../flareglobalproject/Content/Resources/PageLayouts/wide-landscape.flpgl" />
+    <Map
+      Local="Content/Resources/Images/Logos/pl-icon-warning-circle.png"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/tibco_cloud.css" />
+    <Map
+      Local="Content/Resources/Scripts/external-links.js"
+      Remote="../../../flareglobalproject/Project/Skins/HTML5_cloud.flskn" />
+    <Map
+      Local="Content/Resources/Images/Logos/ic_new_tab_window.png"
+      Remote="../../../flareglobalproject/Project/Skins/Toolbar_cloud.flskn" />
+    <Map
+      Local="Content/Resources/Scripts/csh-redirect.js"
+      Remote="../../../flareglobalproject/Content/Resources/Scripts/urlCapture.js" />
+    <Map
+      Local="Content/Resources/TableStyles/Table-indent.css"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/skin_cloud.css" />
+    <Map
+      Local="Content/_globalsnippets/how-to-access-third-party-docs.flsnp"
+      Remote="../../../flareglobalproject/Content/Resources/TableStyles/NoHeading.css" />
+    <Map
+      Local="Content/_globalsnippets/other-tibco-product-docs.flsnp"
+      Remote="../../../flareglobalproject/Content/Resources/TableStyles/NoTitle.css" />
+    <Map
+      Local="Content/_globalsnippets/product-specific-documentation.flsnp"
+      Remote="../../../flareglobalproject/Content/Resources/TableStyles/NoTitleForSidehead.css" />
+    <Map
+      Local="Content/Resources/Images/Logos/outline_keyboard_arrow_down_black_24dp.png"
+      Remote="../../../flareglobalproject/Project/Advanced/English (United States) Dictionary.mcdic" />
+    <Map
+      Local="Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp.png"
+      Remote="../../../flareglobalproject/Project/Advanced/LanguageSkin.fllng" />
+    <Map
+      Local="Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp_expander.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/pl-icon-warning-circle.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/top-icon-hover.png"
+      Remote="../../../flareglobalproject/Content/Resources/Scripts/external-links.js" />
+    <Map
+      Local="Content/Resources/Images/Logos/top-icon.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/ic_new_tab_window.png" />
+    <Map
+      Local="Content/Resources/MasterPages/chm-templatepage.flmsp"
+      Remote="../../../flareglobalproject/Content/Resources/Scripts/csh-redirect.js" />
+    <Map
+      Local="Content/Resources/MasterPages/TCI-MasterPage.flmsp"
+      Remote="../../../flareglobalproject/Content/Resources/TableStyles/Table-indent.css" />
+    <Map
+      Local="Content/Resources/Scripts/scroll-to-top.js"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/how-to-access-third-party-docs.flsnp" />
+    <Map
+      Local="Content/Resources/Stylesheets/tibco-chm.css"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/other-tibco-product-docs.flsnp" />
+    <Map
+      Local="Content/Resources/Stylesheets/tibco-html-variables.css"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/product-specific-documentation.flsnp" />
+    <Map
+      Local="Content/Resources/Stylesheets/tibco-variables.css"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_down_black_24dp.png" />
+    <Map
+      Local="Project/Skins/CHM.flskn"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/black_case_management2.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp_expander.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/black_document_and_digital_asset2.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/top-icon-hover.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/black_innovation.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/top-icon.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/black_ondemand_training.png"
+      Remote="../../../flareglobalproject/Content/Resources/MasterPages/chm-templatepage.flmsp" />
+    <Map
+      Local="Content/Resources/Images/Logos/homepage-header.jpeg"
+      Remote="../../../flareglobalproject/Content/Resources/MasterPages/TCI-MasterPage.flmsp" />
+    <Map
+      Local="Content/Resources/Images/Logos/icon-download.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Scripts/scroll-to-top.js" />
+    <Map
+      Local="Content/Resources/Images/Logos/ondemand_video_lightblack.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/tibco-chm.css" />
+    <Map
+      Local="Content/Resources/Images/Logos/pdf-icon-lightblack.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/tibco-html-variables.css" />
+    <Map
+      Local="Content/Resources/Images/Logos/txt-icon-lightblack.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/tibco-variables.css" />
+    <Map
+      Local="Content/Resources/Images/Logos/sentiment_dissatisfied_red.svg"
+      Remote="../../../flareglobalproject/Project/Skins/CHM.flskn" />
+    <Map
+      Local="Content/Resources/Images/Logos/sentiment_satisfied_green.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/black_case_management2.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/thumb_down.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/black_document_and_digital_asset2.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/thumb_down_hover.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/black_innovation.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/thumb_up.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/black_ondemand_training.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/thumb_up_hover.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/homepage-header.jpeg" />
+    <Map
+      Local="Content/Resources/Scripts/feedback.js"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/icon-download.svg" />
+    <Map
+      Local="Content/Resources/Stylesheets/feedback.css"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/ondemand_video_lightblack.svg" />
+    <Map
+      Local="Content/Resources/Global-project-release-notes.pdf"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/pdf-icon-lightblack.svg" />
+    <Map
+      Local="Content/Resources/Global-project-version.htm"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/txt-icon-lightblack.svg" />
+    <Map
+      Local="Content/Resources/Images/Logos/arrow-back-white.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/sentiment_dissatisfied_red.svg" />
+    <Map
+      Local="Content/Resources/Images/Logos/document.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/sentiment_satisfied_green.svg" />
+    <Map
+      Local="Content/Resources/Images/Logos/tibco-cloud-logo.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/thumb_down.svg" />
+    <Map
+      Local="Content/Resources/Scripts/landing-page.js"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/thumb_down_hover.svg" />
+    <Map
+      Local="Content/Resources/Images/Logos/ibi-logo-black.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/thumb_up.svg" />
+    <Map
+      Local="Content/Resources/Images/Logos/ibi-logo-black.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/thumb_up_hover.svg" />
+    <Map
+      Local="Content/Resources/Images/Logos/ibi-logo-white.png"
+      Remote="../../../flareglobalproject/Content/Resources/Scripts/feedback.js" />
+    <Map
+      Local="Content/Resources/Images/Logos/ibi-logo-white.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Stylesheets/feedback.css" />
+    <Map
+      Local="Content/Resources/Images/Logos/tibco-logo-black.png"
+      Remote="../../../flareglobalproject/Content/Resources/Global-project-release-notes.pdf" />
+    <Map
+      Local="Content/Resources/PageLayouts/title-ibi.flpgl"
+      Remote="../../../flareglobalproject/Content/Resources/Global-project-version.htm" />
+    <Map
+      Local="Content/Resources/Scripts/google-analytics-gtm.js"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/arrow-back-white.svg" />
+    <Map
+      Local="Content/_globalsnippets/caution-for-code-block.flsnp"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/document.svg" />
+    <Map
+      Local="Project/Skins/HTML5_ibi.flskn"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/tibco-cloud-logo.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/cloud-logo-w.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Scripts/landing-page.js" />
+    <Map
+      Local="Content/Resources/Images/Logos/cloud-software-group-logo-color-rgb.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-black.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/cloud-software-group-logo-one-color-reverse.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-black.svg" />
+    <Map
+      Local="Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-white.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-white.svg" />
+    <Map
+      Local="Content/Resources/Images/Logos/spotfire-full-color-rgb.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/tibco-logo-black.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/spotfire-full-color-rgb.svg"
+      Remote="../../../flareglobalproject/Content/Resources/PageLayouts/title-ibi.flpgl" />
+    <Map
+      Local="Content/Resources/Images/Logos/tibco-logo-color-rgb.png"
+      Remote="../../../flareglobalproject/Content/Resources/Scripts/google-analytics-gtm.js" />
+    <Map
+      Local="Content/Resources/Images/Logos/tibco-logo-color-rgb.svg"
+      Remote="../../../flareglobalproject/Content/_globalsnippets/caution-for-code-block.flsnp" />
+    <Map
+      Local="Content/Resources/Images/Logos/title-bg.png"
+      Remote="../../../flareglobalproject/Project/Skins/HTML5_ibi.flskn" />
+    <Map
+      Local="Content/Resources/PageLayouts/title-spotfire.flpgl"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/cloud-logo-w.svg" />
+    <Map
+      Local="Content/Resources/Images/Logos/vertical-cloud-software-group-logo-color-rgb.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/cloud-software-group-logo-color-rgb.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/vertical-cloud-software-group-logo-color-rgb.svg"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/cloud-software-group-logo-one-color-reverse.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/vertical-cloud-software-group-logo-one-color-reverse.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/jaspersoft-color-rgb.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.svg" />
+    <Map
+      Local="Content/Resources/PageLayouts/title-jaspersoft.flpgl"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb.png" />
+    <Map
+      Local="Content/Resources/Images/Logos/spotfire-full-color-rgb-40.png"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb.svg" />
+    <Map
+      Local="Project/Skins/HTML5_spotfire.flskn"
+      Remote="../../../flareglobalproject/Content/Resources/Images/Logos/tibco-logo-color-rgb.png" />
+  </ImportedMap>
+  <SourceUrls>
+    <Url
+      Source="Project/Imports/GlobalProjectImport.flimpfl" />
+  </SourceUrls>
+</CatapultGlobalImportedFilesCache>
