@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalImportedFilesCache
-  SavedSource="file:///C:/Users/akuvvarapu/Documents/My Projects/ToreferChecks/Output/akuvvarapu/Temporary/GlobalImportedFilesSet v.1.xml">
+  SavedSource="file:///C:/Users/akuvvarapu/Documents/GitHub/demo/svn2gitdemo_akuvvarapu/ToreferChecks/Output/akuvvarapu/Temporary/GlobalImportedFilesSet v.1.xml">
   <ImportedMap>
     <Map
       Local="Content/Resources/Stylesheets/tibco.css"
@@ -115,64 +115,64 @@
       Remote="../../../../../FlrTemp/flareglobalproject/Content/_writer-notes/framemaker-conversion.htm" />
     <Map
       Local="Content/Resources/Images/Logos/TIBCO-Logo-Whiteout.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco.css" />
     <Map
       Local="Content/Resources/Images/Logos/tibco-o-logo.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/Draft.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/Draft.png" />
     <Map
       Local="Content/Resources/MasterPages/MasterPage.flmsp"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-o.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-o.png" />
     <Map
       Local="Content/Resources/PageLayouts/index.flpgl"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/TIBCO-Logo-Whiteout.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/TIBCO-Logo-Whiteout.png" />
     <Map
       Local="Content/Resources/PageLayouts/main.flpgl"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-o-logo.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-o-logo.png" />
     <Map
       Local="Content/Resources/PageLayouts/title.flpgl"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/MasterPages/MasterPage.flmsp" />
     <Map
       Local="Content/Resources/TableStyles/Table.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/PageLayouts/index.flpgl" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/PageLayouts/index.flpgl" />
     <Map
       Local="Content/Resources/Images/Logos/Important.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/PageLayouts/main.flpgl" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/PageLayouts/main.flpgl" />
     <Map
       Local="Content/Resources/Images/Logos/note.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/PageLayouts/title.flpgl" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/PageLayouts/title.flpgl" />
     <Map
       Local="Content/Resources/Images/Logos/Restriction.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/Table.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/Table.css" />
     <Map
       Local="Content/Resources/Images/Logos/tibco_logo.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/VariableSets/globalvar.flvar" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/VariableSets/globalvar.flvar" />
     <Map
       Local="Content/Resources/Images/Logos/tip.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/Important.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/Important.png" />
     <Map
       Local="Content/Resources/Images/Logos/warning.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/note.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/note.png" />
     <Map
       Local="Content/Resources/Stylesheets/skin_white.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/Restriction.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/Restriction.png" />
     <Map
       Local="Content/Resources/Stylesheets/source-code-pro.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco_logo.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco_logo.png" />
     <Map
       Local="Content/Resources/Stylesheets/source-sans-pro.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tip.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tip.png" />
     <Map
       Local="Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/warning.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/warning.png" />
     <Map
       Local="Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.eot"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/skin_white.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/skin_white.css" />
     <Map
       Local="Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/source-code-pro.css" />
     <Map
       Local="Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.otf.woff2"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/source-sans-pro.css" />
     <Map
       Local="Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf"
       Remote="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceCodePro-Regular.ttf" />
@@ -196,34 +196,34 @@
       Remote="../../../flareglobalproject/Content/Resources/Stylesheets/fonts/SourceSansPro-Regular.ttf.woff2" />
     <Map
       Local="Project/Imports/dita-import.flimpdita"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/footer.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/footer.css" />
     <Map
       Local="Project/Imports/framemakerImport.flimpfm"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/IconTable.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/IconTable.css" />
     <Map
       Local="Project/Skins/HTML5Combo.flskn"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalpages/contents.htm" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalpages/contents.htm" />
     <Map
       Local="Project/Skins/Toolbar_Skin.flskn"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalpages/index.htm" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalpages/index.htm" />
     <Map
       Local="Content/Resources/Scripts/main-content.js"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalpages/title.htm" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalpages/title.htm" />
     <Map
       Local="Content/_globalsnippets/How to join TIBCO Community.flsnp"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/fontscopyright.flsnp" />
     <Map
       Local="Project/ConditionTagSets/Default.flcts"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/How to access TIBCO documentation.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/How to access TIBCO documentation.flsnp" />
     <Map
       Local="Project/ConditionTagSets/GlobalConditions.flcts"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/How to contact TIBCO support.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/How to contact TIBCO support.flsnp" />
     <Map
       Local="Content/Resources/Images/Logos/pl-icon-info.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/ImportantInfoSection1.flsnp" />
     <Map
       Local="Content/Resources/Images/Logos/pl-icon-restrictions.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/ImportantInfoSection2.flsnp" />
     <Map
       Local="Content/Resources/Images/Logos/pl-icon-success.png"
       Remote="../../../flareglobalproject/Project/Imports/dita-import.flimpdita" />
@@ -232,277 +232,277 @@
       Remote="../../../flareglobalproject/Project/Imports/framemakerImport.flimpfm" />
     <Map
       Local="Content/Resources/Scripts/google-analytics.js"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/Skins/HTML5Combo.flskn" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/Skins/HTML5Combo.flskn" />
     <Map
       Local="Content/Resources/Scripts/hotjar.js"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/Skins/Toolbar_Skin.flskn" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/Skins/Toolbar_Skin.flskn" />
     <Map
       Local="Content/Resources/Stylesheets/title.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/main-content.js" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/main-content.js" />
     <Map
       Local="Content/_globalsnippets/Copyright.flsnp"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/How to join TIBCO Community.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/How to join TIBCO Community.flsnp" />
     <Map
       Local="Content/_globalsnippets/Third-party-note.flsnp"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/ConditionTagSets/Default.flcts" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/ConditionTagSets/Default.flcts" />
     <Map
       Local="Content/Resources/Images/Logos/product-backdrop.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/ConditionTagSets/GlobalConditions.flcts" />
     <Map
       Local="Content/Resources/MasterPages/home-page.flmsp"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-info.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-info.png" />
     <Map
       Local="Content/Resources/Stylesheets/home-page.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-restrictions.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-restrictions.png" />
     <Map
       Local="Content/Resources/Images/Logos/favicon_0.ico"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-success.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-success.png" />
     <Map
       Local="Content/Resources/Images/Logos/favicon_0.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-warning-triangle.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-warning-triangle.png" />
     <Map
       Local="Content/Resources/PageLayouts/wide-landscape.flpgl"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/google-analytics.js" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/google-analytics.js" />
     <Map
       Local="Content/Resources/Stylesheets/tibco_cloud.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/hotjar.js" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/hotjar.js" />
     <Map
       Local="Project/Skins/HTML5_cloud.flskn"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/title.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/title.css" />
     <Map
       Local="Project/Skins/Toolbar_cloud.flskn"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/Copyright.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/Copyright.flsnp" />
     <Map
       Local="Content/Resources/Scripts/urlCapture.js"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/Third-party-note.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/Third-party-note.flsnp" />
     <Map
       Local="Content/Resources/Stylesheets/skin_cloud.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/product-backdrop.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/product-backdrop.png" />
     <Map
       Local="Content/Resources/TableStyles/NoHeading.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/MasterPages/home-page.flmsp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/MasterPages/home-page.flmsp" />
     <Map
       Local="Content/Resources/TableStyles/NoTitle.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/home-page.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/home-page.css" />
     <Map
       Local="Content/Resources/TableStyles/NoTitleForSidehead.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/favicon_0.ico" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/favicon_0.ico" />
     <Map
       Local="Project/Advanced/English (United States) Dictionary.mcdic"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/favicon_0.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/favicon_0.png" />
     <Map
       Local="Project/Advanced/LanguageSkin.fllng"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/PageLayouts/wide-landscape.flpgl" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/PageLayouts/wide-landscape.flpgl" />
     <Map
       Local="Content/Resources/Images/Logos/pl-icon-warning-circle.png"
       Remote="../../../flareglobalproject/Content/Resources/Stylesheets/tibco_cloud.css" />
     <Map
       Local="Content/Resources/Scripts/external-links.js"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/Skins/HTML5_cloud.flskn" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/Skins/HTML5_cloud.flskn" />
     <Map
       Local="Content/Resources/Images/Logos/ic_new_tab_window.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/Skins/Toolbar_cloud.flskn" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/Skins/Toolbar_cloud.flskn" />
     <Map
       Local="Content/Resources/Scripts/csh-redirect.js"
       Remote="../../../flareglobalproject/Content/Resources/Scripts/urlCapture.js" />
     <Map
       Local="Content/Resources/TableStyles/Table-indent.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/skin_cloud.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/skin_cloud.css" />
     <Map
       Local="Content/_globalsnippets/how-to-access-third-party-docs.flsnp"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/NoHeading.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/NoHeading.css" />
     <Map
       Local="Content/_globalsnippets/other-tibco-product-docs.flsnp"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/NoTitle.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/NoTitle.css" />
     <Map
       Local="Content/_globalsnippets/product-specific-documentation.flsnp"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/NoTitleForSidehead.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/NoTitleForSidehead.css" />
     <Map
       Local="Content/Resources/Images/Logos/outline_keyboard_arrow_down_black_24dp.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/Advanced/English (United States) Dictionary.mcdic" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/Advanced/English (United States) Dictionary.mcdic" />
     <Map
       Local="Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/Advanced/LanguageSkin.fllng" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/Advanced/LanguageSkin.fllng" />
     <Map
       Local="Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp_expander.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-warning-circle.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pl-icon-warning-circle.png" />
     <Map
       Local="Content/Resources/Images/Logos/top-icon-hover.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/external-links.js" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/external-links.js" />
     <Map
       Local="Content/Resources/Images/Logos/top-icon.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ic_new_tab_window.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ic_new_tab_window.png" />
     <Map
       Local="Content/Resources/MasterPages/chm-templatepage.flmsp"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/csh-redirect.js" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/csh-redirect.js" />
     <Map
       Local="Content/Resources/MasterPages/TCI-MasterPage.flmsp"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/Table-indent.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/TableStyles/Table-indent.css" />
     <Map
       Local="Content/Resources/Scripts/scroll-to-top.js"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/how-to-access-third-party-docs.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/how-to-access-third-party-docs.flsnp" />
     <Map
       Local="Content/Resources/Stylesheets/tibco-chm.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/other-tibco-product-docs.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/other-tibco-product-docs.flsnp" />
     <Map
       Local="Content/Resources/Stylesheets/tibco-html-variables.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/product-specific-documentation.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/product-specific-documentation.flsnp" />
     <Map
       Local="Content/Resources/Stylesheets/tibco-variables.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_down_black_24dp.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_down_black_24dp.png" />
     <Map
       Local="Project/Skins/CHM.flskn"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp.png" />
     <Map
       Local="Content/Resources/Images/Logos/black_case_management2.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp_expander.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/outline_keyboard_arrow_right_black_24dp_expander.png" />
     <Map
       Local="Content/Resources/Images/Logos/black_document_and_digital_asset2.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/top-icon-hover.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/top-icon-hover.png" />
     <Map
       Local="Content/Resources/Images/Logos/black_innovation.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/top-icon.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/top-icon.png" />
     <Map
       Local="Content/Resources/Images/Logos/black_ondemand_training.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/MasterPages/chm-templatepage.flmsp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/MasterPages/chm-templatepage.flmsp" />
     <Map
       Local="Content/Resources/Images/Logos/homepage-header.jpeg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/MasterPages/TCI-MasterPage.flmsp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/MasterPages/TCI-MasterPage.flmsp" />
     <Map
       Local="Content/Resources/Images/Logos/icon-download.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/scroll-to-top.js" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/scroll-to-top.js" />
     <Map
       Local="Content/Resources/Images/Logos/ondemand_video_lightblack.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco-chm.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco-chm.css" />
     <Map
       Local="Content/Resources/Images/Logos/pdf-icon-lightblack.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco-html-variables.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco-html-variables.css" />
     <Map
       Local="Content/Resources/Images/Logos/txt-icon-lightblack.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco-variables.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/tibco-variables.css" />
     <Map
       Local="Content/Resources/Images/Logos/sentiment_dissatisfied_red.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/Skins/CHM.flskn" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/Skins/CHM.flskn" />
     <Map
       Local="Content/Resources/Images/Logos/sentiment_satisfied_green.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_case_management2.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_case_management2.png" />
     <Map
       Local="Content/Resources/Images/Logos/thumb_down.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_document_and_digital_asset2.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_document_and_digital_asset2.png" />
     <Map
       Local="Content/Resources/Images/Logos/thumb_down_hover.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_innovation.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_innovation.png" />
     <Map
       Local="Content/Resources/Images/Logos/thumb_up.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_ondemand_training.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/black_ondemand_training.png" />
     <Map
       Local="Content/Resources/Images/Logos/thumb_up_hover.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/homepage-header.jpeg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/homepage-header.jpeg" />
     <Map
       Local="Content/Resources/Scripts/feedback.js"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/icon-download.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/icon-download.svg" />
     <Map
       Local="Content/Resources/Stylesheets/feedback.css"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ondemand_video_lightblack.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ondemand_video_lightblack.svg" />
     <Map
       Local="Content/Resources/Global-project-release-notes.pdf"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pdf-icon-lightblack.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/pdf-icon-lightblack.svg" />
     <Map
       Local="Content/Resources/Global-project-version.htm"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/txt-icon-lightblack.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/txt-icon-lightblack.svg" />
     <Map
       Local="Content/Resources/Images/Logos/arrow-back-white.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/sentiment_dissatisfied_red.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/sentiment_dissatisfied_red.svg" />
     <Map
       Local="Content/Resources/Images/Logos/document.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/sentiment_satisfied_green.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/sentiment_satisfied_green.svg" />
     <Map
       Local="Content/Resources/Images/Logos/tibco-cloud-logo.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_down.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_down.svg" />
     <Map
       Local="Content/Resources/Scripts/landing-page.js"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_down_hover.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_down_hover.svg" />
     <Map
       Local="Content/Resources/Images/Logos/ibi-logo-black.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_up.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_up.svg" />
     <Map
       Local="Content/Resources/Images/Logos/ibi-logo-black.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_up_hover.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/thumb_up_hover.svg" />
     <Map
       Local="Content/Resources/Images/Logos/ibi-logo-white.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/feedback.js" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/feedback.js" />
     <Map
       Local="Content/Resources/Images/Logos/ibi-logo-white.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/feedback.css" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Stylesheets/feedback.css" />
     <Map
       Local="Content/Resources/Images/Logos/tibco-logo-black.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Global-project-release-notes.pdf" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Global-project-release-notes.pdf" />
     <Map
       Local="Content/Resources/PageLayouts/title-ibi.flpgl"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Global-project-version.htm" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Global-project-version.htm" />
     <Map
       Local="Content/Resources/Scripts/google-analytics-gtm.js"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/arrow-back-white.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/arrow-back-white.svg" />
     <Map
       Local="Content/_globalsnippets/caution-for-code-block.flsnp"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/document.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/document.svg" />
     <Map
       Local="Project/Skins/HTML5_ibi.flskn"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-cloud-logo.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-cloud-logo.png" />
     <Map
       Local="Content/Resources/Images/Logos/cloud-logo-w.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/landing-page.js" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/landing-page.js" />
     <Map
       Local="Content/Resources/Images/Logos/cloud-software-group-logo-color-rgb.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-black.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-black.png" />
     <Map
       Local="Content/Resources/Images/Logos/cloud-software-group-logo-one-color-reverse.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-black.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-black.svg" />
     <Map
       Local="Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-white.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-white.png" />
     <Map
       Local="Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-white.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-white.svg" />
     <Map
       Local="Content/Resources/Images/Logos/spotfire-full-color-rgb.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-black.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-black.png" />
     <Map
       Local="Content/Resources/Images/Logos/spotfire-full-color-rgb.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/PageLayouts/title-ibi.flpgl" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/PageLayouts/title-ibi.flpgl" />
     <Map
       Local="Content/Resources/Images/Logos/tibco-logo-color-rgb.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/google-analytics-gtm.js" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Scripts/google-analytics-gtm.js" />
     <Map
       Local="Content/Resources/Images/Logos/tibco-logo-color-rgb.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/caution-for-code-block.flsnp" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/_globalsnippets/caution-for-code-block.flsnp" />
     <Map
       Local="Content/Resources/Images/Logos/title-bg.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Project/Skins/HTML5_ibi.flskn" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Project/Skins/HTML5_ibi.flskn" />
     <Map
       Local="Content/Resources/PageLayouts/title-spotfire.flpgl"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/cloud-logo-w.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/cloud-logo-w.svg" />
     <Map
       Local="Content/Resources/Images/Logos/vertical-cloud-software-group-logo-color-rgb.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/cloud-software-group-logo-color-rgb.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/cloud-software-group-logo-color-rgb.png" />
     <Map
       Local="Content/Resources/Images/Logos/vertical-cloud-software-group-logo-color-rgb.svg"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/cloud-software-group-logo-one-color-reverse.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/cloud-software-group-logo-one-color-reverse.png" />
     <Map
       Local="Content/Resources/Images/Logos/vertical-cloud-software-group-logo-one-color-reverse.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.png" />
     <Map
       Local="Content/Resources/Images/Logos/jaspersoft-color-rgb.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/ibi-logo-color-dark-rgb.svg" />
     <Map
       Local="Content/Resources/PageLayouts/title-jaspersoft.flpgl"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb.png" />
     <Map
       Local="Content/Resources/Images/Logos/spotfire-full-color-rgb-40.png"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb.svg" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/spotfire-full-color-rgb.svg" />
     <Map
       Local="Project/Skins/HTML5_spotfire.flskn"
-      Remote="../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-color-rgb.png" />
+      Remote="../../../../../../../svn/flare/flareglobalproject/Content/Resources/Images/Logos/tibco-logo-color-rgb.png" />
   </ImportedMap>
   <SourceUrls>
     <Url
